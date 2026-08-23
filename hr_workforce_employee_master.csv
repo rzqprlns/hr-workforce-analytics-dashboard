@@ -1,0 +1,901 @@
+employee_id,department,location,job_level,employment_type,hiring_source,education,age,hire_date,exit_date,employment_status,exit_reason,time_to_hire_days,monthly_salary,commute_km,monthly_overtime_hours,engagement_score,performance_rating
+EMP-0001,Finance,Jakarta,Staff,Permanent,Job Portal,D3,25,2025-11-14,,Active,,26,6600000,15.2,26.5,1.7000000000000002,Meets Expectations
+EMP-0002,Operations,Jakarta,Staff,Permanent,LinkedIn,S1,28,2024-11-02,2025-02-25,Exited,Compensation,25,7500000,23.0,3.5,3.6,Needs Improvement
+EMP-0003,Operations,Jakarta,Staff,Permanent,Referral,S1,20,2024-01-14,,Active,,6,6800000,12.6,15.4,3.2,Meets Expectations
+EMP-0004,Sales,Jakarta,Senior Staff,Contract,LinkedIn,S1,30,2025-02-15,,Active,,20,11300000,16.1,24.4,3.3000000000000003,Meets Expectations
+EMP-0005,Sales,Jakarta,Staff,Contract,Job Portal,S1,30,2025-08-17,2025-10-31,Exited,Workload,28,6000000,13.4,20.4,4.0,Meets Expectations
+EMP-0006,Human Resources,Jakarta,Supervisor,Permanent,LinkedIn,S1,35,2025-12-11,,Active,,20,10700000,1.6,9.4,2.1,Meets Expectations
+EMP-0007,Finance,Jakarta,Senior Staff,Contract,Agency,S1,35,2025-04-13,,Active,,31,14600000,12.7,15.8,4.3,Meets Expectations
+EMP-0008,Sales,Jakarta,Staff,Permanent,Job Portal,S1,32,2025-03-29,,Active,,12,9800000,19.2,12.6,3.0,Meets Expectations
+EMP-0009,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,27,2024-05-19,,Active,,31,9500000,16.3,22.0,3.0,Exceeds Expectations
+EMP-0010,Marketing,Jakarta,Manager,Permanent,Job Portal,S1,29,2024-02-27,,Active,,23,11700000,30.1,9.8,3.1,Meets Expectations
+EMP-0011,Operations,Jakarta,Manager,Permanent,LinkedIn,S2,30,2025-12-06,,Active,,14,17000000,12.6,17.6,2.9,Needs Improvement
+EMP-0012,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,24,2024-12-10,2025-03-05,Exited,Career Growth,21,13100000,6.0,0,3.5,Meets Expectations
+EMP-0013,Operations,Jakarta,Manager,Permanent,Agency,S1,28,2025-04-01,,Active,,23,11300000,17.5,15.8,3.8,Meets Expectations
+EMP-0014,Customer Service,Bandung,Staff,Contract,LinkedIn,S1,33,2025-02-11,2025-11-14,Exited,Better Opportunity,23,5200000,13.1,23.4,3.0,Exceeds Expectations
+EMP-0015,Customer Service,Jakarta,Staff,Permanent,Campus Hiring,S1,40,2024-11-30,2025-10-16,Exited,Better Opportunity,19,7300000,11.1,17.5,2.9,Exceeds Expectations
+EMP-0016,IT & Data,Jakarta,Staff,Permanent,LinkedIn,S2,33,2024-09-12,2025-07-02,Exited,Personal Reason,26,8900000,15.7,15.6,3.4,Exceeds Expectations
+EMP-0017,Customer Service,Jakarta,Staff,Contract,Job Portal,S1,32,2025-01-17,2025-09-04,Exited,Compensation,18,6400000,23.2,27.4,3.6999999999999997,Exceeds Expectations
+EMP-0018,Sales,Bogor,Senior Staff,Permanent,Job Portal,S1,35,2024-05-16,,Active,,26,9200000,12.1,18.0,3.9,Exceeds Expectations
+EMP-0019,Operations,Jakarta,Staff,Permanent,Referral,S1,28,2025-07-30,2025-09-19,Exited,Career Growth,18,5100000,22.3,18.4,3.1,Meets Expectations
+EMP-0020,Finance,Jakarta,Staff,Contract,Agency,S1,28,2025-03-18,2025-06-28,Exited,Career Growth,21,9200000,8.7,1.5,3.2,Exceeds Expectations
+EMP-0021,IT & Data,Jakarta,Staff,Contract,LinkedIn,S1,28,2025-01-20,,Active,,22,12500000,20.5,17.5,3.8,Meets Expectations
+EMP-0022,Customer Service,Bandung,Staff,Permanent,Job Portal,S2,30,2025-05-11,,Active,,27,8300000,12.4,12.7,3.0,Meets Expectations
+EMP-0023,IT & Data,Bogor,Staff,Permanent,Campus Hiring,S1,25,2024-10-24,2025-11-15,Exited,Career Growth,35,15600000,1,19.5,4.199999999999999,Meets Expectations
+EMP-0024,IT & Data,Surabaya,Staff,Permanent,LinkedIn,S1,30,2025-05-24,2025-12-23,Exited,Career Growth,21,10300000,12.4,17.2,3.8,Exceeds Expectations
+EMP-0025,Marketing,Jakarta,Staff,Permanent,Job Portal,S1,20,2024-11-24,,Active,,27,6900000,15.7,5.6,4.5,Meets Expectations
+EMP-0026,Sales,Surabaya,Staff,Permanent,Campus Hiring,S1,21,2025-05-24,2025-07-09,Exited,Compensation,19,10900000,4.4,12.8,3.5,Meets Expectations
+EMP-0027,Sales,Jakarta,Senior Staff,Permanent,Referral,S1,26,2025-10-16,,Active,,22,9300000,18.7,20.4,4.3,Meets Expectations
+EMP-0028,Finance,Jakarta,Staff,Permanent,Internal Mobility,S2,39,2025-07-24,,Active,,6,7500000,15.9,20.3,3.4000000000000004,Needs Improvement
+EMP-0029,Operations,Surabaya,Senior Staff,Contract,LinkedIn,S1,36,2025-05-19,,Active,,19,6400000,8.2,13.2,2.9,Meets Expectations
+EMP-0030,Sales,Jakarta,Staff,Permanent,Campus Hiring,S1,25,2024-06-29,2025-09-29,Exited,Compensation,25,8200000,16.9,17.5,3.9,Needs Improvement
+EMP-0031,Customer Service,Bogor,Staff,Permanent,LinkedIn,S1,32,2024-11-28,2025-09-03,Exited,Compensation,29,7000000,10.5,25.6,3.5,Exceeds Expectations
+EMP-0032,Operations,Jakarta,Staff,Contract,Referral,S1,31,2024-03-14,2025-06-13,Exited,Contract End,19,8800000,13.9,1.5,2.6,Meets Expectations
+EMP-0033,Operations,Bandung,Staff,Permanent,Job Portal,S1,32,2024-02-10,,Active,,20,5200000,10.4,2.0,4.5,Meets Expectations
+EMP-0034,Marketing,Jakarta,Supervisor,Permanent,Referral,S1,26,2025-03-17,,Active,,19,18500000,23.5,16.3,4.2,Exceeds Expectations
+EMP-0035,Operations,Jakarta,Senior Staff,Permanent,Job Portal,S1,31,2025-03-16,,Active,,29,7800000,25.3,4.4,4.2,Meets Expectations
+EMP-0036,Human Resources,Jakarta,Manager,Permanent,LinkedIn,S1,30,2025-02-23,,Active,,27,19900000,10.2,17.6,3.6,Meets Expectations
+EMP-0037,Customer Service,Bandung,Staff,Permanent,Job Portal,S1,31,2024-01-03,,Active,,23,6500000,3.0,10.2,4.2,Meets Expectations
+EMP-0038,Sales,Bandung,Staff,Permanent,Referral,S1,20,2025-09-28,,Active,,21,9100000,7.3,10.8,4.4,Meets Expectations
+EMP-0039,Customer Service,Bogor,Staff,Permanent,Job Portal,S1,42,2025-07-27,,Active,,31,5300000,1,24.4,3.4,Exceeds Expectations
+EMP-0040,Human Resources,Jakarta,Supervisor,Permanent,Campus Hiring,S1,22,2025-05-06,,Active,,40,12500000,14.5,14.0,4.9,Needs Improvement
+EMP-0041,Sales,Jakarta,Senior Staff,Permanent,Job Portal,S1,37,2025-01-29,2025-09-01,Exited,Compensation,29,9400000,22.8,20.1,3.1,Exceeds Expectations
+EMP-0042,Finance,Jakarta,Staff,Permanent,Internal Mobility,D3,24,2024-12-09,,Active,,12,6700000,14.0,14.0,3.2,Exceeds Expectations
+EMP-0043,Finance,Jakarta,Staff,Contract,LinkedIn,S1,33,2024-01-25,,Active,,20,12700000,10.5,15.0,3.7,Meets Expectations
+EMP-0044,Operations,Bandung,Staff,Permanent,Referral,S2,26,2025-05-22,2025-08-07,Exited,Better Opportunity,9,5100000,22.2,14.3,4.1,Meets Expectations
+EMP-0045,Operations,Surabaya,Senior Staff,Permanent,Job Portal,S1,30,2024-01-29,,Active,,23,10700000,7.8,3.8,2.5,Meets Expectations
+EMP-0046,IT & Data,Bandung,Staff,Permanent,LinkedIn,D3,27,2024-03-19,,Active,,20,9200000,1.7,14.5,4.0,Exceeds Expectations
+EMP-0047,Human Resources,Bogor,Staff,Contract,Campus Hiring,SMA/SMK,38,2025-02-24,,Active,,29,9500000,17.6,12.9,4.0,Needs Improvement
+EMP-0048,Sales,Jakarta,Staff,Contract,Job Portal,S2,35,2025-03-16,,Active,,19,7700000,12.2,15.2,3.3,Meets Expectations
+EMP-0049,Marketing,Jakarta,Supervisor,Permanent,Campus Hiring,S1,32,2025-09-07,,Active,,32,13900000,22.0,1.1,3.3,Exceeds Expectations
+EMP-0050,Sales,Jakarta,Manager,Permanent,Campus Hiring,S1,21,2025-08-26,,Active,,32,16300000,8.3,17.1,3.5,Meets Expectations
+EMP-0051,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,26,2025-03-27,,Active,,15,10000000,12.3,0,3.7,Meets Expectations
+EMP-0052,Finance,Surabaya,Staff,Permanent,Job Portal,S1,26,2024-09-03,,Active,,33,12700000,17.8,8.9,3.5,Meets Expectations
+EMP-0053,Operations,Jakarta,Staff,Contract,Job Portal,S1,30,2024-07-22,,Active,,22,5700000,6.1,11.0,3.2,Meets Expectations
+EMP-0054,Sales,Bogor,Staff,Permanent,Job Portal,S1,31,2025-05-11,2025-10-07,Exited,Contract End,31,10000000,8.4,19.1,4.6,Meets Expectations
+EMP-0055,Sales,Jakarta,Senior Staff,Contract,Job Portal,S1,27,2025-07-09,,Active,,21,7900000,13.6,17.5,3.4,Exceeds Expectations
+EMP-0056,Operations,Bandung,Staff,Permanent,Referral,S1,27,2025-08-08,,Active,,13,5100000,8.8,18.9,4.5,Exceeds Expectations
+EMP-0057,Operations,Bandung,Staff,Contract,Internal Mobility,S2,34,2025-06-28,2025-11-02,Exited,Better Opportunity,15,6500000,6.8,11.4,4.6000000000000005,Meets Expectations
+EMP-0058,Finance,Bandung,Senior Staff,Permanent,LinkedIn,S1,32,2025-01-01,,Active,,31,13200000,13.4,11.9,4.0,Meets Expectations
+EMP-0059,Customer Service,Surabaya,Staff,Permanent,Campus Hiring,SMA/SMK,28,2025-01-19,,Active,,31,5700000,16.5,19.3,3.1,Meets Expectations
+EMP-0060,IT & Data,Bandung,Staff,Permanent,Internal Mobility,SMA/SMK,32,2025-10-07,2025-12-14,Exited,Workload,15,13800000,12.3,0,3.7,Meets Expectations
+EMP-0061,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,26,2025-03-08,,Active,,21,8600000,7.7,23.2,3.5,Meets Expectations
+EMP-0062,Sales,Jakarta,Staff,Contract,Job Portal,S1,22,2025-01-10,2025-04-03,Exited,Career Growth,25,9400000,11.0,18.2,2.2,Meets Expectations
+EMP-0063,IT & Data,Bogor,Staff,Permanent,LinkedIn,S1,20,2025-12-12,,Active,,21,12700000,15.0,10.8,4.8,Meets Expectations
+EMP-0064,IT & Data,Bandung,Senior Staff,Permanent,Job Portal,S2,28,2024-05-14,,Active,,30,17500000,14.0,11.0,3.8,Meets Expectations
+EMP-0065,IT & Data,Surabaya,Staff,Permanent,Job Portal,S1,26,2025-06-05,,Active,,18,14900000,14.0,14.5,4.4,Meets Expectations
+EMP-0066,Operations,Bogor,Supervisor,Contract,Job Portal,S1,27,2025-10-23,2025-12-28,Exited,Personal Reason,21,8700000,6.5,5.2,4.4,Meets Expectations
+EMP-0067,Human Resources,Jakarta,Senior Staff,Permanent,Job Portal,S1,26,2024-06-18,,Active,,28,7800000,9.1,0,3.8,Meets Expectations
+EMP-0068,Finance,Surabaya,Senior Staff,Permanent,Job Portal,SMA/SMK,35,2025-03-29,,Active,,30,12200000,10.6,7.8,5,Meets Expectations
+EMP-0069,Sales,Bandung,Staff,Permanent,Internal Mobility,S1,20,2025-06-21,,Active,,10,8800000,18.8,21.7,3.5000000000000004,Meets Expectations
+EMP-0070,Customer Service,Jakarta,Staff,Contract,Job Portal,D3,28,2025-04-23,2025-09-16,Exited,Better Opportunity,24,5200000,5.8,3.0,3.2,Exceeds Expectations
+EMP-0071,Customer Service,Bandung,Supervisor,Permanent,Campus Hiring,S1,30,2024-07-21,,Active,,31,9600000,6.3,9.4,3.2,Exceeds Expectations
+EMP-0072,Human Resources,Bandung,Senior Staff,Permanent,Referral,S1,20,2025-11-26,,Active,,14,9300000,9.3,12.6,4.3,Meets Expectations
+EMP-0073,Operations,Jakarta,Supervisor,Contract,Referral,D3,31,2024-07-29,,Active,,7,12900000,28.0,8.0,3.6,Meets Expectations
+EMP-0074,Customer Service,Jakarta,Staff,Permanent,Referral,S1,29,2024-06-29,,Active,,20,8400000,23.1,18.9,3.6,Meets Expectations
+EMP-0075,Sales,Jakarta,Staff,Permanent,Job Portal,S1,27,2024-03-14,,Active,,32,5800000,15.3,17.0,3.5,Exceeds Expectations
+EMP-0076,Customer Service,Jakarta,Staff,Permanent,Job Portal,S2,27,2025-01-12,,Active,,20,6600000,24.5,18.7,3.1,Meets Expectations
+EMP-0077,Customer Service,Jakarta,Supervisor,Permanent,Job Portal,S1,28,2024-04-23,,Active,,16,12000000,20.2,17.9,3.3,Exceeds Expectations
+EMP-0078,Operations,Jakarta,Senior Staff,Permanent,LinkedIn,D3,24,2025-06-15,,Active,,28,6400000,12.2,5.7,4.4,Meets Expectations
+EMP-0079,Customer Service,Bogor,Staff,Contract,Referral,D3,25,2025-04-20,,Active,,7,6800000,6.1,20.1,3.4000000000000004,Exceeds Expectations
+EMP-0080,Human Resources,Jakarta,Manager,Permanent,Job Portal,S2,37,2024-04-23,,Active,,25,11500000,15.9,10.2,2.0,Exceeds Expectations
+EMP-0081,Customer Service,Jakarta,Senior Staff,Contract,Internal Mobility,SMA/SMK,34,2025-02-10,,Active,,5,9100000,14.1,21.9,3.9,Meets Expectations
+EMP-0082,Sales,Bogor,Staff,Permanent,LinkedIn,S1,27,2024-05-01,,Active,,25,11100000,12.4,20.8,1.9,Meets Expectations
+EMP-0083,Finance,Jakarta,Staff,Permanent,Job Portal,SMA/SMK,28,2024-12-13,,Active,,26,7000000,28.1,3.4,3.0,Meets Expectations
+EMP-0084,Marketing,Surabaya,Senior Staff,Contract,Agency,S1,32,2025-05-17,,Active,,13,8700000,12.2,6.8,3.7,Meets Expectations
+EMP-0085,Operations,Jakarta,Staff,Contract,LinkedIn,S1,20,2025-01-21,,Active,,16,6800000,22.2,12.9,3.1,Exceeds Expectations
+EMP-0086,Operations,Bogor,Staff,Permanent,Campus Hiring,S2,22,2025-08-06,,Active,,29,6900000,10.6,10.3,3.2,Meets Expectations
+EMP-0087,Human Resources,Bandung,Senior Staff,Permanent,Job Portal,D3,27,2024-12-14,2025-05-13,Exited,Better Opportunity,28,10800000,13.5,17.6,2.9,Exceeds Expectations
+EMP-0088,Marketing,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,27,2025-01-06,,Active,,12,9400000,13.0,0,3.9000000000000004,Meets Expectations
+EMP-0089,IT & Data,Bandung,Staff,Contract,Referral,S1,27,2024-10-28,,Active,,24,8800000,15.7,14.0,2.8000000000000003,Meets Expectations
+EMP-0090,Sales,Bandung,Staff,Contract,Campus Hiring,S1,26,2025-04-06,,Active,,33,9800000,16.9,18.2,3.2,Meets Expectations
+EMP-0091,Customer Service,Jakarta,Staff,Permanent,Job Portal,D3,32,2025-03-16,,Active,,24,5700000,5.0,27.3,2.8000000000000003,Needs Improvement
+EMP-0092,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,23,2024-11-25,,Active,,21,8000000,24.7,6.6,4.2,Meets Expectations
+EMP-0093,Customer Service,Bandung,Senior Staff,Permanent,Campus Hiring,S1,22,2024-10-05,,Active,,32,8300000,16.1,20.5,2.8000000000000003,Exceeds Expectations
+EMP-0094,Finance,Jakarta,Staff,Permanent,Internal Mobility,D3,32,2024-08-17,,Active,,9,12000000,14.5,8.6,3.5,Meets Expectations
+EMP-0095,Marketing,Jakarta,Staff,Contract,Job Portal,S1,29,2025-03-10,,Active,,32,10300000,19.3,3.8,4.2,Exceeds Expectations
+EMP-0096,Customer Service,Jakarta,Staff,Contract,Referral,S1,37,2025-11-20,,Active,,8,6300000,19.8,4.4,4.4,Needs Improvement
+EMP-0097,IT & Data,Jakarta,Staff,Contract,Job Portal,S1,22,2024-07-10,,Active,,27,17700000,20.8,8.5,4.1,Exceeds Expectations
+EMP-0098,Marketing,Bandung,Staff,Permanent,LinkedIn,S1,21,2025-07-13,,Active,,13,11100000,1,21.5,3.5,Meets Expectations
+EMP-0099,Operations,Jakarta,Supervisor,Permanent,LinkedIn,S1,31,2025-03-07,,Active,,24,8900000,16.5,18.5,2.8000000000000003,Meets Expectations
+EMP-0100,Sales,Bogor,Staff,Permanent,LinkedIn,S1,26,2024-10-06,,Active,,25,10900000,10.8,16.7,4.4,Meets Expectations
+EMP-0101,Customer Service,Bandung,Manager,Permanent,Job Portal,SMA/SMK,20,2024-08-15,,Active,,20,10100000,16.2,25.1,3.0,Needs Improvement
+EMP-0102,Customer Service,Bandung,Senior Staff,Permanent,Referral,S2,26,2024-12-04,2025-12-16,Exited,Career Growth,18,6600000,18.2,3.4,3.8000000000000003,Meets Expectations
+EMP-0103,IT & Data,Surabaya,Staff,Contract,Job Portal,S1,26,2024-02-26,,Active,,35,15100000,16.1,9.0,4.0,Meets Expectations
+EMP-0104,Customer Service,Bandung,Staff,Permanent,LinkedIn,S1,40,2025-01-29,,Active,,27,8100000,15.8,18.8,3.8000000000000003,Meets Expectations
+EMP-0105,Human Resources,Bogor,Senior Staff,Permanent,Internal Mobility,S1,22,2024-02-13,,Active,,12,8300000,14.7,17.4,4.0,Meets Expectations
+EMP-0106,Sales,Jakarta,Staff,Permanent,Campus Hiring,S1,23,2025-10-18,,Active,,30,10500000,13.6,20.7,3.2,Exceeds Expectations
+EMP-0107,Marketing,Jakarta,Supervisor,Permanent,Agency,S1,25,2024-03-17,,Active,,18,10400000,9.9,4.8,3.6,Meets Expectations
+EMP-0108,Sales,Bandung,Senior Staff,Permanent,Job Portal,S1,31,2024-02-29,,Active,,28,9400000,7.6,10.1,3.2,Meets Expectations
+EMP-0109,Customer Service,Jakarta,Staff,Permanent,Referral,S1,20,2025-07-11,,Active,,13,6300000,23.0,20.6,4.2,Meets Expectations
+EMP-0110,Customer Service,Jakarta,Senior Staff,Contract,Referral,S2,24,2025-09-22,,Active,,18,8000000,23.0,13.6,5,Meets Expectations
+EMP-0111,Marketing,Jakarta,Senior Staff,Contract,Referral,S1,37,2024-02-22,,Active,,10,14500000,24.7,9.1,4.7,Meets Expectations
+EMP-0112,Operations,Jakarta,Staff,Permanent,Agency,S1,27,2024-10-16,2025-12-22,Exited,Better Opportunity,20,7200000,10.9,3.8,5,Meets Expectations
+EMP-0113,IT & Data,Bogor,Senior Staff,Permanent,Campus Hiring,S1,23,2025-10-04,2025-12-11,Exited,Compensation,36,12800000,23.9,22.4,2.4,Exceeds Expectations
+EMP-0114,Sales,Jakarta,Staff,Permanent,Referral,D3,30,2025-06-20,,Active,,15,7100000,14.8,17.1,4.5,Exceeds Expectations
+EMP-0115,IT & Data,Jakarta,Senior Staff,Permanent,Job Portal,S1,30,2025-08-17,,Active,,12,11900000,12.6,6.6,3.5,Meets Expectations
+EMP-0116,Finance,Surabaya,Staff,Permanent,Referral,S1,20,2025-08-14,,Active,,20,11400000,1,5.2,4.4,Meets Expectations
+EMP-0117,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,28,2025-09-05,,Active,,25,9900000,7.0,22.6,2.7,Meets Expectations
+EMP-0118,IT & Data,Jakarta,Staff,Contract,Job Portal,S2,24,2024-05-22,,Active,,33,12600000,18.8,6.4,4.7,Exceeds Expectations
+EMP-0119,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,34,2024-09-01,,Active,,19,12100000,1,19.3,4.1,Meets Expectations
+EMP-0120,Sales,Jakarta,Staff,Permanent,Referral,D3,30,2024-09-09,,Active,,18,10400000,10.2,15.1,4.4,Meets Expectations
+EMP-0121,Operations,Bogor,Staff,Permanent,Referral,S1,22,2024-04-16,,Active,,16,6700000,1,11.7,4.5,Exceeds Expectations
+EMP-0122,IT & Data,Bogor,Manager,Permanent,LinkedIn,S2,27,2024-02-29,,Active,,23,19300000,7.8,3.8,3.8,Meets Expectations
+EMP-0123,IT & Data,Jakarta,Senior Staff,Contract,LinkedIn,S1,23,2024-12-02,,Active,,25,16900000,12.1,14.9,3.1,Meets Expectations
+EMP-0124,Sales,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,32,2024-10-05,,Active,,20,8100000,11.2,20.0,2.4000000000000004,Meets Expectations
+EMP-0125,Operations,Jakarta,Staff,Permanent,LinkedIn,S2,20,2024-01-24,,Active,,29,5600000,14.2,17.9,3.9,Meets Expectations
+EMP-0126,Finance,Jakarta,Staff,Permanent,Agency,SMA/SMK,27,2025-03-14,2025-09-18,Exited,Career Growth,28,12600000,4.2,17.3,3.2,Meets Expectations
+EMP-0127,Operations,Bandung,Staff,Permanent,Job Portal,S1,25,2024-09-06,2025-05-17,Exited,Career Growth,36,8900000,19.6,19.5,3.6999999999999997,Needs Improvement
+EMP-0128,Sales,Surabaya,Senior Staff,Contract,Campus Hiring,SMA/SMK,27,2024-06-28,,Active,,26,11200000,9.4,19.6,3.9,Meets Expectations
+EMP-0129,Marketing,Jakarta,Staff,Contract,LinkedIn,SMA/SMK,29,2025-08-03,,Active,,20,7000000,10.0,0,3.8,Meets Expectations
+EMP-0130,Operations,Bandung,Staff,Permanent,Job Portal,S1,22,2025-09-02,,Active,,9,7800000,7.9,17.8,2.8,Exceeds Expectations
+EMP-0131,IT & Data,Bogor,Staff,Permanent,Internal Mobility,S1,21,2025-10-29,,Active,,9,14200000,14.0,20.3,2.0000000000000004,Meets Expectations
+EMP-0132,Sales,Bogor,Staff,Contract,Internal Mobility,SMA/SMK,37,2025-02-06,,Active,,10,7600000,8.3,15.9,3.9000000000000004,Meets Expectations
+EMP-0133,Sales,Surabaya,Senior Staff,Permanent,Referral,S2,27,2024-09-13,,Active,,21,7200000,17.5,15.2,3.4000000000000004,Exceeds Expectations
+EMP-0134,Human Resources,Jakarta,Staff,Permanent,Campus Hiring,S1,32,2025-08-26,,Active,,28,11000000,14.1,2.4,2.9,Meets Expectations
+EMP-0135,Sales,Jakarta,Senior Staff,Permanent,LinkedIn,SMA/SMK,35,2025-04-11,2025-10-11,Exited,Career Growth,21,7400000,13.8,14.8,3.5,Meets Expectations
+EMP-0136,Operations,Jakarta,Staff,Permanent,LinkedIn,D3,24,2025-10-20,,Active,,31,7000000,13.3,13.6,3.1,Meets Expectations
+EMP-0137,Customer Service,Bandung,Senior Staff,Permanent,Referral,S1,22,2024-10-22,,Active,,13,6900000,2.1,19.2,3.0000000000000004,Needs Improvement
+EMP-0138,Human Resources,Bandung,Manager,Contract,Job Portal,S1,29,2025-09-06,,Active,,27,19100000,4.9,26.3,3.8000000000000003,Meets Expectations
+EMP-0139,Customer Service,Bogor,Supervisor,Permanent,Agency,S1,28,2024-04-01,2024-07-09,Exited,Compensation,20,11500000,4.2,19.6,3.6,Meets Expectations
+EMP-0140,Finance,Bandung,Staff,Contract,Referral,S1,26,2024-07-20,,Active,,21,10600000,1,28.0,3.1,Meets Expectations
+EMP-0141,Sales,Bogor,Supervisor,Permanent,Campus Hiring,S1,25,2025-08-18,,Active,,32,14800000,10.9,25.1,3.4,Meets Expectations
+EMP-0142,Customer Service,Bogor,Staff,Permanent,Campus Hiring,S1,20,2025-09-17,,Active,,30,8000000,5.5,17.1,2.9,Meets Expectations
+EMP-0143,Marketing,Bandung,Staff,Permanent,Job Portal,S2,26,2024-06-30,,Active,,28,11100000,15.9,19.0,3.0,Meets Expectations
+EMP-0144,Customer Service,Bogor,Staff,Contract,Agency,SMA/SMK,25,2024-08-28,2025-01-21,Exited,Workload,33,8000000,8.4,23.7,2.3000000000000003,Meets Expectations
+EMP-0145,Finance,Jakarta,Supervisor,Contract,Campus Hiring,D3,20,2024-02-17,,Active,,27,15100000,1.1,13.9,3.5,Meets Expectations
+EMP-0146,IT & Data,Jakarta,Manager,Contract,Job Portal,S2,20,2024-04-19,,Active,,30,16700000,18.3,9.8,4.6,Meets Expectations
+EMP-0147,Human Resources,Jakarta,Staff,Permanent,LinkedIn,D3,20,2025-09-05,,Active,,23,9100000,18.6,15.4,4.4,Meets Expectations
+EMP-0148,Marketing,Jakarta,Supervisor,Permanent,Campus Hiring,D3,29,2024-06-28,,Active,,30,12600000,21.8,16.0,3.9,Needs Improvement
+EMP-0149,Operations,Jakarta,Manager,Permanent,Campus Hiring,S1,22,2025-01-01,,Active,,32,9800000,22.0,24.1,3.5,Needs Improvement
+EMP-0150,Sales,Jakarta,Staff,Permanent,Job Portal,S1,31,2025-06-13,,Active,,30,6100000,20.2,23.0,2.8000000000000003,Meets Expectations
+EMP-0151,Finance,Jakarta,Staff,Permanent,Job Portal,S2,22,2025-10-04,,Active,,32,11300000,12.2,8.8,3.6,Exceeds Expectations
+EMP-0152,Operations,Jakarta,Senior Staff,Permanent,Internal Mobility,D3,33,2024-05-29,,Active,,11,7600000,20.4,5.1,4.7,Meets Expectations
+EMP-0153,Sales,Jakarta,Staff,Permanent,Campus Hiring,S1,31,2025-11-08,,Active,,34,5800000,23.3,5.3,3.7,Exceeds Expectations
+EMP-0154,Customer Service,Bogor,Manager,Permanent,Referral,SMA/SMK,35,2024-08-15,,Active,,14,11100000,11.5,24.2,3.6,Meets Expectations
+EMP-0155,IT & Data,Jakarta,Staff,Permanent,Job Portal,S1,22,2024-06-27,,Active,,34,17900000,1,19.3,1.8000000000000003,Needs Improvement
+EMP-0156,Sales,Bandung,Senior Staff,Permanent,LinkedIn,S1,27,2025-11-03,,Active,,23,13300000,3.2,12.4,3.8,Meets Expectations
+EMP-0157,Operations,Bandung,Staff,Contract,LinkedIn,S1,22,2024-11-10,,Active,,19,9900000,15.9,11.5,2.6,Meets Expectations
+EMP-0158,Sales,Surabaya,Manager,Contract,LinkedIn,SMA/SMK,35,2024-12-06,2025-11-26,Exited,Contract End,16,16200000,13.8,18.6,2.5,Needs Improvement
+EMP-0159,Operations,Surabaya,Staff,Permanent,Job Portal,D3,33,2024-04-24,,Active,,29,9000000,8.6,2.8,4.3,Exceeds Expectations
+EMP-0160,Marketing,Bandung,Staff,Permanent,Referral,S1,34,2024-05-31,2025-07-27,Exited,Career Growth,11,13500000,11.3,12.7,3.4000000000000004,Exceeds Expectations
+EMP-0161,Operations,Jakarta,Staff,Permanent,Referral,S1,24,2025-08-24,2025-12-30,Exited,Compensation,20,9700000,16.6,4.6,4.5,Exceeds Expectations
+EMP-0162,IT & Data,Jakarta,Staff,Permanent,Internal Mobility,SMA/SMK,22,2024-09-23,,Active,,14,12300000,10.6,0.2,3.6,Meets Expectations
+EMP-0163,Customer Service,Surabaya,Staff,Permanent,Internal Mobility,S1,32,2025-07-11,,Active,,15,6600000,11.3,24.3,2.7,Meets Expectations
+EMP-0164,Human Resources,Bandung,Senior Staff,Permanent,Agency,S1,27,2024-09-24,,Active,,26,12100000,6.5,14.7,3.6,Meets Expectations
+EMP-0165,Operations,Jakarta,Staff,Permanent,Job Portal,S1,20,2025-04-23,2025-07-23,Exited,Career Growth,22,6900000,25.4,16.7,2.9,Meets Expectations
+EMP-0166,Operations,Jakarta,Senior Staff,Permanent,Job Portal,S1,34,2024-11-02,,Active,,27,8300000,26.5,18.8,2.3000000000000003,Meets Expectations
+EMP-0167,Human Resources,Surabaya,Staff,Permanent,LinkedIn,S1,33,2024-04-01,,Active,,22,9600000,12.1,17.9,3.5,Meets Expectations
+EMP-0168,Finance,Bogor,Staff,Permanent,Internal Mobility,SMA/SMK,26,2024-02-22,,Active,,12,9700000,5.0,7.6,4.9,Exceeds Expectations
+EMP-0169,Finance,Jakarta,Staff,Permanent,Campus Hiring,S1,39,2024-08-20,,Active,,28,7200000,13.3,9.1,3.3,Exceeds Expectations
+EMP-0170,Customer Service,Jakarta,Supervisor,Contract,LinkedIn,S1,30,2024-12-14,,Active,,28,12000000,5.1,21.7,3.6999999999999997,Exceeds Expectations
+EMP-0171,Finance,Jakarta,Senior Staff,Permanent,LinkedIn,SMA/SMK,24,2024-03-03,,Active,,31,14100000,16.2,12.1,3.7,Meets Expectations
+EMP-0172,Marketing,Jakarta,Staff,Permanent,LinkedIn,D3,28,2025-01-03,,Active,,23,11200000,11.4,9.6,2.9,Needs Improvement
+EMP-0173,IT & Data,Jakarta,Staff,Permanent,LinkedIn,S1,25,2025-02-21,,Active,,29,12200000,8.0,9.7,4.0,Needs Improvement
+EMP-0174,Human Resources,Bandung,Senior Staff,Permanent,Referral,S1,29,2024-05-18,,Active,,11,9400000,6.7,14.3,2.4000000000000004,Meets Expectations
+EMP-0175,Operations,Bandung,Senior Staff,Permanent,Internal Mobility,D3,29,2025-11-17,,Active,,8,7500000,13.2,10.1,2.8000000000000003,Meets Expectations
+EMP-0176,Marketing,Jakarta,Senior Staff,Permanent,LinkedIn,SMA/SMK,30,2024-12-06,,Active,,22,8700000,4.9,17.7,3.5,Meets Expectations
+EMP-0177,Operations,Bogor,Senior Staff,Permanent,Referral,S2,28,2025-09-16,,Active,,10,6500000,4.5,12.8,4.0,Meets Expectations
+EMP-0178,Marketing,Jakarta,Senior Staff,Permanent,Campus Hiring,S2,31,2025-02-21,,Active,,24,9800000,8.1,14.8,3.5,Meets Expectations
+EMP-0179,Finance,Jakarta,Staff,Permanent,Referral,S1,26,2024-12-31,,Active,,19,10200000,23.7,11.4,3.4000000000000004,Meets Expectations
+EMP-0180,Human Resources,Bogor,Senior Staff,Permanent,Job Portal,SMA/SMK,36,2024-07-15,,Active,,29,11500000,25.7,0,4.9,Meets Expectations
+EMP-0181,Customer Service,Bandung,Staff,Contract,Job Portal,S1,27,2024-11-30,2025-05-16,Exited,Compensation,29,6600000,5.7,21.2,3.9,Meets Expectations
+EMP-0182,Operations,Jakarta,Staff,Permanent,Agency,S1,28,2024-04-26,,Active,,22,7100000,12.3,11.9,3.9,Meets Expectations
+EMP-0183,Customer Service,Jakarta,Senior Staff,Permanent,Referral,S1,23,2025-04-08,,Active,,5,9500000,24.4,22.4,1.8,Meets Expectations
+EMP-0184,Customer Service,Surabaya,Manager,Permanent,Internal Mobility,S1,27,2025-08-04,,Active,,16,11500000,4.0,17.5,3.7,Meets Expectations
+EMP-0185,Operations,Bandung,Senior Staff,Permanent,Job Portal,S1,26,2024-10-11,,Active,,28,6900000,8.0,7.1,3.9,Needs Improvement
+EMP-0186,Sales,Jakarta,Staff,Permanent,Job Portal,S1,31,2024-10-08,,Active,,20,9800000,11.7,14.7,3.0,Meets Expectations
+EMP-0187,Marketing,Jakarta,Supervisor,Contract,Internal Mobility,S1,28,2025-12-07,,Active,,17,15100000,12.9,11.6,4.8,Exceeds Expectations
+EMP-0188,IT & Data,Jakarta,Manager,Contract,Job Portal,S1,34,2024-11-19,,Active,,21,16000000,16.8,15.3,4.2,Exceeds Expectations
+EMP-0189,Customer Service,Surabaya,Staff,Contract,Job Portal,S1,31,2024-01-05,,Active,,21,7800000,13.4,15.8,4.1,Meets Expectations
+EMP-0190,Marketing,Jakarta,Staff,Permanent,Internal Mobility,S1,20,2025-10-05,,Active,,5,9700000,15.9,17.2,3.7,Meets Expectations
+EMP-0191,IT & Data,Bogor,Senior Staff,Permanent,Job Portal,SMA/SMK,39,2024-04-29,2025-05-16,Exited,Better Opportunity,34,17500000,15.4,22.7,4.1,Meets Expectations
+EMP-0192,Finance,Jakarta,Supervisor,Permanent,Job Portal,S1,26,2025-07-20,,Active,,21,9900000,28.6,17.4,2.0,Exceeds Expectations
+EMP-0193,Human Resources,Surabaya,Manager,Permanent,LinkedIn,S1,35,2024-12-22,,Active,,24,15500000,10.7,10.1,3.8,Meets Expectations
+EMP-0194,Finance,Jakarta,Supervisor,Permanent,Referral,S2,20,2024-04-10,,Active,,14,9700000,11.2,14.0,4.8,Meets Expectations
+EMP-0195,IT & Data,Jakarta,Senior Staff,Contract,Job Portal,D3,28,2025-02-04,,Active,,33,12300000,3.1,15.0,3.9,Meets Expectations
+EMP-0196,Marketing,Jakarta,Staff,Permanent,Job Portal,S2,27,2024-05-27,,Active,,18,10800000,33.6,22.4,2.4,Meets Expectations
+EMP-0197,Finance,Jakarta,Staff,Permanent,Referral,S1,41,2025-11-27,,Active,,21,11800000,6.2,7.8,3.3000000000000003,Needs Improvement
+EMP-0198,Sales,Jakarta,Staff,Permanent,Agency,S1,28,2024-08-21,,Active,,25,6400000,4.8,15.6,3.4,Meets Expectations
+EMP-0199,Marketing,Jakarta,Supervisor,Permanent,Campus Hiring,S1,34,2025-06-05,,Active,,31,14900000,15.3,15.2,3.9,Meets Expectations
+EMP-0200,Sales,Surabaya,Staff,Permanent,Campus Hiring,S1,30,2024-06-14,2025-07-07,Exited,Personal Reason,26,9100000,10.2,13.8,4.0,Exceeds Expectations
+EMP-0201,Customer Service,Bandung,Manager,Contract,LinkedIn,S1,30,2024-08-14,,Active,,23,9500000,16.7,7.1,4.4,Needs Improvement
+EMP-0202,Sales,Jakarta,Staff,Contract,Job Portal,S1,27,2024-10-04,,Active,,29,9900000,9.8,23.6,3.5,Meets Expectations
+EMP-0203,Customer Service,Bogor,Staff,Permanent,Job Portal,S1,35,2024-02-16,,Active,,37,7900000,10.2,8.7,2.9,Meets Expectations
+EMP-0204,Operations,Surabaya,Manager,Permanent,LinkedIn,D3,28,2024-04-20,,Active,,30,16400000,11.7,23.0,3.1,Meets Expectations
+EMP-0205,Human Resources,Bogor,Staff,Contract,Agency,S1,26,2025-10-24,,Active,,19,7800000,14.1,20.6,3.6,Exceeds Expectations
+EMP-0206,Finance,Jakarta,Manager,Permanent,Agency,S1,25,2025-05-21,,Active,,13,20600000,15.0,9.6,3.0,Meets Expectations
+EMP-0207,Finance,Jakarta,Staff,Permanent,Agency,SMA/SMK,28,2025-01-08,,Active,,22,7300000,10.8,0,4.2,Needs Improvement
+EMP-0208,IT & Data,Bogor,Staff,Contract,Job Portal,S1,31,2024-04-10,,Active,,33,17300000,7.5,15.8,4.0,Meets Expectations
+EMP-0209,Marketing,Jakarta,Staff,Permanent,Job Portal,S2,24,2025-03-29,2025-11-14,Exited,Compensation,19,12800000,18.8,16.4,3.1,Meets Expectations
+EMP-0210,Sales,Jakarta,Senior Staff,Permanent,Job Portal,SMA/SMK,36,2024-01-06,,Active,,21,10800000,22.8,29.7,3.6,Needs Improvement
+EMP-0211,IT & Data,Bandung,Staff,Permanent,Agency,S2,32,2025-06-12,,Active,,17,14600000,6.8,6.5,3.4,Meets Expectations
+EMP-0212,Human Resources,Jakarta,Staff,Contract,Campus Hiring,D3,28,2024-08-01,,Active,,28,10100000,9.7,11.3,4.1,Needs Improvement
+EMP-0213,Human Resources,Jakarta,Staff,Permanent,Internal Mobility,S1,34,2025-02-08,,Active,,7,9000000,16.9,18.2,3.1,Exceeds Expectations
+EMP-0214,Sales,Jakarta,Staff,Permanent,Campus Hiring,S1,33,2024-01-12,,Active,,22,6300000,8.2,15.6,3.1,Meets Expectations
+EMP-0215,Customer Service,Jakarta,Staff,Permanent,Internal Mobility,S1,33,2024-03-30,,Active,,13,7800000,24.9,19.4,2.7,Meets Expectations
+EMP-0216,Marketing,Jakarta,Staff,Permanent,Job Portal,S1,22,2024-11-27,,Active,,18,8000000,8.4,19.2,2.5,Exceeds Expectations
+EMP-0217,Operations,Bogor,Senior Staff,Contract,Referral,D3,28,2024-04-20,,Active,,28,8000000,10.5,18.7,3.4000000000000004,Exceeds Expectations
+EMP-0218,Human Resources,Jakarta,Senior Staff,Permanent,Campus Hiring,SMA/SMK,27,2025-04-17,,Active,,36,7800000,21.6,26.2,3.8000000000000003,Meets Expectations
+EMP-0219,Human Resources,Bogor,Senior Staff,Contract,Job Portal,S1,27,2025-12-05,,Active,,33,14400000,7.4,16.5,3.1,Meets Expectations
+EMP-0220,Sales,Jakarta,Staff,Permanent,Job Portal,D3,22,2024-03-04,,Active,,24,8500000,16.3,16.7,3.2,Exceeds Expectations
+EMP-0221,Sales,Jakarta,Staff,Permanent,Agency,S1,25,2025-04-07,,Active,,25,10800000,15.7,25.3,2.7,Meets Expectations
+EMP-0222,Sales,Bandung,Staff,Permanent,Referral,S1,30,2024-03-27,,Active,,13,10100000,17.9,2.7,3.6,Meets Expectations
+EMP-0223,Sales,Jakarta,Staff,Permanent,Agency,S1,28,2024-06-29,,Active,,24,7200000,9.0,29.4,3.5,Exceeds Expectations
+EMP-0224,Customer Service,Bandung,Staff,Permanent,Agency,SMA/SMK,25,2025-03-10,2025-12-29,Exited,Workload,5,7700000,12.4,25.3,3.0,Meets Expectations
+EMP-0225,Finance,Jakarta,Staff,Permanent,LinkedIn,D3,27,2025-12-06,,Active,,23,7600000,10.4,13.9,5,Needs Improvement
+EMP-0226,Sales,Jakarta,Manager,Contract,Internal Mobility,S1,22,2025-10-12,2025-12-26,Exited,Personal Reason,14,11400000,18.6,19.7,2.8000000000000003,Exceeds Expectations
+EMP-0227,Marketing,Jakarta,Staff,Permanent,Referral,S2,33,2025-11-22,,Active,,9,12900000,20.6,0,5,Needs Improvement
+EMP-0228,Customer Service,Surabaya,Staff,Permanent,Job Portal,S1,37,2024-02-25,,Active,,30,6300000,25.8,14.8,3.8,Exceeds Expectations
+EMP-0229,Customer Service,Bogor,Senior Staff,Contract,LinkedIn,S1,36,2024-03-14,,Active,,26,8300000,5.0,15.6,4.3,Exceeds Expectations
+EMP-0230,Sales,Jakarta,Staff,Permanent,Agency,S1,27,2025-10-05,,Active,,19,6000000,14.4,18.2,3.4,Meets Expectations
+EMP-0231,Operations,Jakarta,Manager,Permanent,Job Portal,S1,31,2025-11-04,,Active,,27,18600000,15.8,23.1,4.6,Meets Expectations
+EMP-0232,Operations,Jakarta,Staff,Permanent,Job Portal,S2,28,2025-04-03,2025-10-08,Exited,Better Opportunity,20,6200000,24.4,15.0,2.1,Exceeds Expectations
+EMP-0233,Customer Service,Surabaya,Supervisor,Permanent,Agency,S1,33,2025-11-12,,Active,,24,8200000,15.9,22.5,2.2,Meets Expectations
+EMP-0234,IT & Data,Surabaya,Staff,Contract,Referral,D3,26,2025-06-24,,Active,,14,8500000,14.6,26.1,3.4000000000000004,Meets Expectations
+EMP-0235,Marketing,Bogor,Staff,Permanent,Campus Hiring,S1,20,2025-09-21,,Active,,27,8700000,12.2,19.4,3.2,Meets Expectations
+EMP-0236,Sales,Jakarta,Supervisor,Permanent,LinkedIn,S1,29,2025-09-12,,Active,,27,9500000,23.4,6.5,3.1,Exceeds Expectations
+EMP-0237,Customer Service,Jakarta,Senior Staff,Permanent,Referral,S1,21,2024-01-12,,Active,,26,6200000,20.7,19.5,4.0,Meets Expectations
+EMP-0238,Marketing,Jakarta,Supervisor,Permanent,Internal Mobility,S1,36,2025-05-24,,Active,,7,15400000,17.6,6.9,5,Exceeds Expectations
+EMP-0239,Sales,Jakarta,Supervisor,Permanent,Job Portal,D3,24,2024-04-07,,Active,,27,10000000,20.7,8.9,3.5,Meets Expectations
+EMP-0240,Customer Service,Bandung,Senior Staff,Permanent,Job Portal,S1,38,2025-04-07,,Active,,29,8800000,1.8,18.8,3.2,Meets Expectations
+EMP-0241,Marketing,Jakarta,Staff,Permanent,Referral,SMA/SMK,39,2025-01-01,,Active,,13,7100000,17.2,7.2,4.4,Exceeds Expectations
+EMP-0242,Customer Service,Bogor,Staff,Contract,Agency,D3,20,2024-06-16,2024-09-12,Exited,Career Growth,21,6200000,9.8,7.0,4.8,Meets Expectations
+EMP-0243,Customer Service,Bandung,Staff,Permanent,Job Portal,D3,28,2025-11-05,2025-12-22,Exited,Better Opportunity,33,7100000,3.3,19.5,3.6,Meets Expectations
+EMP-0244,Sales,Surabaya,Staff,Permanent,Job Portal,S1,29,2025-02-11,,Active,,23,7400000,1,22.0,4.3,Meets Expectations
+EMP-0245,Marketing,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,25,2024-07-09,,Active,,13,13200000,17.0,8.7,3.0,Meets Expectations
+EMP-0246,Customer Service,Jakarta,Staff,Permanent,Agency,S1,28,2025-05-06,,Active,,14,5100000,16.2,14.5,2.8,Exceeds Expectations
+EMP-0247,Sales,Jakarta,Staff,Permanent,Campus Hiring,S2,26,2025-08-29,,Active,,40,6900000,17.4,30.3,3.2,Meets Expectations
+EMP-0248,IT & Data,Jakarta,Staff,Contract,Internal Mobility,S2,25,2025-01-22,,Active,,12,10200000,18.9,10.1,3.5,Meets Expectations
+EMP-0249,Marketing,Jakarta,Supervisor,Permanent,Job Portal,S1,30,2025-08-17,,Active,,28,15000000,7.9,23.2,3.1,Exceeds Expectations
+EMP-0250,IT & Data,Jakarta,Staff,Permanent,Job Portal,S1,27,2025-07-08,,Active,,30,10700000,22.6,13.6,4.4,Meets Expectations
+EMP-0251,Human Resources,Jakarta,Staff,Permanent,LinkedIn,S1,26,2024-09-13,2025-05-30,Exited,Contract End,15,8600000,20.1,10.4,3.7,Exceeds Expectations
+EMP-0252,Customer Service,Jakarta,Staff,Permanent,Agency,S1,20,2024-09-12,2025-03-30,Exited,Career Growth,20,7800000,21.1,14.3,2.2,Meets Expectations
+EMP-0253,Operations,Jakarta,Senior Staff,Permanent,Job Portal,S1,35,2025-05-02,,Active,,24,9000000,13.3,5.3,4.0,Meets Expectations
+EMP-0254,Sales,Surabaya,Staff,Permanent,Internal Mobility,D3,33,2024-01-26,,Active,,11,6600000,14.1,5.6,3.0,Exceeds Expectations
+EMP-0255,Finance,Bogor,Staff,Permanent,Job Portal,S1,30,2025-01-31,,Active,,24,8900000,10.7,17.7,2.8,Exceeds Expectations
+EMP-0256,Marketing,Bogor,Staff,Contract,Referral,S1,39,2025-09-17,,Active,,17,10600000,9.4,13.8,4.0,Meets Expectations
+EMP-0257,Human Resources,Bandung,Staff,Contract,Campus Hiring,S1,40,2024-05-05,,Active,,34,10400000,8.8,25.1,2.9,Exceeds Expectations
+EMP-0258,Customer Service,Jakarta,Staff,Contract,Referral,S1,31,2025-05-25,,Active,,8,6200000,10.5,11.9,4.0,Meets Expectations
+EMP-0259,Sales,Bandung,Senior Staff,Permanent,Internal Mobility,S1,28,2024-10-07,,Active,,7,10100000,14.8,21.5,3.1,Meets Expectations
+EMP-0260,Human Resources,Jakarta,Staff,Permanent,Internal Mobility,S1,25,2024-06-16,2025-01-29,Exited,Personal Reason,7,11500000,17.8,14.3,5,Exceeds Expectations
+EMP-0261,Human Resources,Jakarta,Senior Staff,Contract,Referral,SMA/SMK,22,2025-06-04,,Active,,17,7900000,19.8,10.5,3.4000000000000004,Meets Expectations
+EMP-0262,Operations,Bogor,Staff,Contract,Internal Mobility,SMA/SMK,30,2025-11-11,,Active,,15,8000000,10.3,20.8,2.3000000000000003,Meets Expectations
+EMP-0263,Marketing,Bandung,Manager,Contract,Agency,S1,37,2024-02-24,,Active,,11,14300000,5.6,0,3.7,Meets Expectations
+EMP-0264,Operations,Surabaya,Senior Staff,Permanent,Job Portal,S1,25,2024-10-28,,Active,,26,7500000,3.9,6.6,3.1,Meets Expectations
+EMP-0265,Sales,Jakarta,Staff,Permanent,Campus Hiring,S2,28,2025-05-13,,Active,,32,8400000,5.6,17.0,3.8,Meets Expectations
+EMP-0266,Sales,Bogor,Senior Staff,Contract,Job Portal,S1,30,2024-01-16,2025-01-09,Exited,Contract End,28,7400000,4.1,12.8,3.5,Exceeds Expectations
+EMP-0267,Human Resources,Bogor,Staff,Permanent,Agency,S1,27,2025-05-21,,Active,,18,8700000,4.8,19.2,3.6999999999999997,Meets Expectations
+EMP-0268,Sales,Jakarta,Supervisor,Permanent,Campus Hiring,S1,21,2025-08-15,,Active,,34,15700000,19.0,16.1,3.3,Meets Expectations
+EMP-0269,Marketing,Jakarta,Staff,Permanent,Job Portal,S1,36,2024-06-30,,Active,,24,13400000,17.7,20.4,3.0,Exceeds Expectations
+EMP-0270,Marketing,Jakarta,Senior Staff,Permanent,Job Portal,S1,30,2025-05-16,,Active,,33,11200000,20.2,6.4,2.6,Meets Expectations
+EMP-0271,Finance,Jakarta,Staff,Permanent,Agency,S1,27,2025-10-11,,Active,,14,6800000,19.9,12.0,3.7,Exceeds Expectations
+EMP-0272,IT & Data,Bogor,Staff,Permanent,Agency,S1,30,2025-03-21,2025-07-04,Exited,Better Opportunity,16,8800000,1,7.8,4.1,Meets Expectations
+EMP-0273,IT & Data,Jakarta,Staff,Permanent,Job Portal,S2,23,2024-07-26,2024-12-08,Exited,Contract End,26,9100000,6.0,11.5,2.9,Exceeds Expectations
+EMP-0274,IT & Data,Surabaya,Staff,Permanent,Referral,S2,26,2025-08-23,,Active,,20,9900000,8.7,2.8,3.7,Meets Expectations
+EMP-0275,Operations,Bandung,Supervisor,Permanent,Job Portal,S1,28,2025-12-12,,Active,,23,14300000,7.0,8.3,3.3,Meets Expectations
+EMP-0276,Sales,Surabaya,Supervisor,Contract,Agency,S1,39,2025-05-26,,Active,,11,16100000,1,4.4,4.4,Meets Expectations
+EMP-0277,Sales,Surabaya,Manager,Contract,Agency,S1,31,2025-06-03,,Active,,26,19800000,8.6,16.2,3.2,Exceeds Expectations
+EMP-0278,Operations,Bandung,Manager,Permanent,Campus Hiring,S1,23,2024-06-18,2025-01-11,Exited,Workload,33,11500000,2.9,9.3,3.5,Meets Expectations
+EMP-0279,Finance,Bandung,Staff,Permanent,Job Portal,S1,27,2024-06-10,,Active,,28,10200000,4.9,18.4,2.7,Meets Expectations
+EMP-0280,IT & Data,Bogor,Staff,Permanent,LinkedIn,S1,28,2025-04-20,,Active,,15,9100000,6.9,12.0,3.6,Exceeds Expectations
+EMP-0281,Sales,Jakarta,Supervisor,Permanent,Campus Hiring,S2,24,2025-10-31,2025-12-29,Exited,Career Growth,22,14800000,19.5,27.5,3.6999999999999997,Meets Expectations
+EMP-0282,Operations,Jakarta,Senior Staff,Contract,LinkedIn,S1,26,2025-04-30,,Active,,18,6200000,40.9,2.8,3.2,Needs Improvement
+EMP-0283,IT & Data,Bandung,Staff,Permanent,Agency,S2,24,2024-02-05,,Active,,24,10000000,12.2,18.3,2.4,Meets Expectations
+EMP-0284,Finance,Jakarta,Staff,Permanent,Agency,S1,30,2024-05-22,2025-01-03,Exited,Better Opportunity,28,11600000,20.6,11.1,2.5,Meets Expectations
+EMP-0285,Operations,Bandung,Senior Staff,Permanent,Job Portal,S1,24,2025-02-01,,Active,,23,10800000,4.3,18.4,4.3,Meets Expectations
+EMP-0286,Customer Service,Bandung,Staff,Permanent,LinkedIn,S1,26,2025-03-03,,Active,,26,8500000,10.4,19.8,3.6,Meets Expectations
+EMP-0287,IT & Data,Jakarta,Staff,Permanent,Job Portal,D3,25,2024-12-16,,Active,,21,15300000,8.5,6.3,4.6,Meets Expectations
+EMP-0288,Customer Service,Jakarta,Senior Staff,Permanent,Campus Hiring,S2,28,2025-04-24,,Active,,32,9800000,20.0,9.8,3.2,Meets Expectations
+EMP-0289,Marketing,Jakarta,Staff,Permanent,Job Portal,S1,28,2025-10-14,,Active,,27,13100000,1,9.4,4.1,Exceeds Expectations
+EMP-0290,Marketing,Bogor,Staff,Permanent,Campus Hiring,SMA/SMK,29,2025-07-02,,Active,,27,13200000,10.0,10.3,3.3,Meets Expectations
+EMP-0291,Customer Service,Jakarta,Manager,Permanent,Campus Hiring,S1,31,2025-05-02,,Active,,37,13500000,15.7,11.0,3.5,Meets Expectations
+EMP-0292,Customer Service,Bogor,Staff,Permanent,Referral,S1,30,2024-12-27,,Active,,19,5800000,15.2,9.2,3.4000000000000004,Exceeds Expectations
+EMP-0293,Marketing,Bogor,Senior Staff,Permanent,Agency,S1,28,2025-09-10,,Active,,26,11500000,18.2,16.0,3.7,Meets Expectations
+EMP-0294,Marketing,Bandung,Manager,Contract,LinkedIn,S1,29,2025-03-19,,Active,,17,14300000,18.7,5.9,4.5,Meets Expectations
+EMP-0295,IT & Data,Jakarta,Manager,Permanent,Campus Hiring,S2,32,2025-01-21,,Active,,28,21100000,18.9,12.6,3.9,Meets Expectations
+EMP-0296,IT & Data,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,29,2024-02-29,,Active,,13,11500000,11.9,5.3,3.3000000000000003,Meets Expectations
+EMP-0297,Sales,Jakarta,Senior Staff,Permanent,Job Portal,S1,34,2024-01-10,,Active,,32,8600000,4.2,19.9,3.8000000000000003,Needs Improvement
+EMP-0298,Customer Service,Bogor,Supervisor,Contract,Internal Mobility,S1,29,2025-07-10,,Active,,13,10800000,6.7,17.6,4.2,Meets Expectations
+EMP-0299,Operations,Bandung,Staff,Permanent,Internal Mobility,SMA/SMK,33,2025-02-27,,Active,,5,6000000,7.2,25.9,3.9,Meets Expectations
+EMP-0300,Human Resources,Surabaya,Senior Staff,Permanent,Internal Mobility,S1,28,2025-11-12,,Active,,12,11700000,1,12.6,3.0,Meets Expectations
+EMP-0301,Marketing,Surabaya,Staff,Permanent,Campus Hiring,S1,33,2025-03-25,2025-09-03,Exited,Compensation,25,9100000,7.4,20.2,2.8000000000000003,Needs Improvement
+EMP-0302,IT & Data,Bandung,Staff,Permanent,Internal Mobility,D3,33,2024-07-02,,Active,,18,16600000,17.3,0,3.5,Meets Expectations
+EMP-0303,Finance,Bandung,Supervisor,Permanent,Referral,S1,30,2024-09-22,,Active,,12,17300000,10.3,20.4,4.1,Meets Expectations
+EMP-0304,Marketing,Jakarta,Staff,Permanent,Agency,D3,31,2024-06-20,,Active,,19,7400000,21.0,7.5,3.3,Meets Expectations
+EMP-0305,Sales,Surabaya,Staff,Permanent,LinkedIn,D3,34,2024-04-27,2025-10-14,Exited,Career Growth,32,11200000,17.2,21.7,2.8000000000000003,Exceeds Expectations
+EMP-0306,Customer Service,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,27,2024-04-24,,Active,,17,9200000,10.0,23.0,3.2,Meets Expectations
+EMP-0307,Sales,Jakarta,Staff,Permanent,Referral,S1,23,2025-02-26,,Active,,9,9500000,15.5,18.4,4.0,Meets Expectations
+EMP-0308,Operations,Jakarta,Staff,Permanent,LinkedIn,S2,28,2025-06-23,,Active,,22,8600000,8.5,20.2,3.5,Exceeds Expectations
+EMP-0309,Operations,Jakarta,Staff,Contract,Job Portal,S1,33,2025-05-23,,Active,,28,5000000,18.7,7.4,3.0,Meets Expectations
+EMP-0310,Sales,Jakarta,Senior Staff,Contract,Job Portal,D3,29,2024-04-23,,Active,,29,13400000,15.5,10.8,4.2,Exceeds Expectations
+EMP-0311,Customer Service,Bandung,Senior Staff,Permanent,Campus Hiring,S2,27,2025-04-23,,Active,,28,10000000,20.3,7.0,3.3,Meets Expectations
+EMP-0312,Sales,Jakarta,Staff,Contract,Internal Mobility,D3,33,2024-08-22,,Active,,14,10900000,16.0,19.0,3.5000000000000004,Meets Expectations
+EMP-0313,Operations,Bandung,Staff,Permanent,Job Portal,S1,33,2025-01-31,,Active,,24,7900000,20.6,6.4,3.1,Exceeds Expectations
+EMP-0314,Customer Service,Jakarta,Staff,Permanent,Internal Mobility,S1,25,2024-12-04,,Active,,5,6100000,30.6,17.4,3.9000000000000004,Meets Expectations
+EMP-0315,Sales,Jakarta,Manager,Permanent,Job Portal,S2,32,2025-01-02,,Active,,28,18500000,10.1,15.1,4.0,Exceeds Expectations
+EMP-0316,Marketing,Jakarta,Senior Staff,Permanent,LinkedIn,S1,30,2024-01-21,,Active,,20,9000000,7.7,9.3,4.3,Meets Expectations
+EMP-0317,Finance,Surabaya,Staff,Contract,Internal Mobility,S1,32,2025-08-04,,Active,,11,12400000,14.7,10.4,3.6,Meets Expectations
+EMP-0318,Operations,Bogor,Staff,Permanent,Campus Hiring,SMA/SMK,29,2025-08-26,,Active,,25,6400000,8.8,13.1,3.0,Meets Expectations
+EMP-0319,Customer Service,Jakarta,Staff,Permanent,Referral,S1,32,2025-07-05,,Active,,16,5700000,10.3,14.7,5,Meets Expectations
+EMP-0320,Sales,Bandung,Staff,Permanent,Job Portal,S1,31,2025-08-12,,Active,,27,5600000,6.6,12.5,4.0,Meets Expectations
+EMP-0321,IT & Data,Jakarta,Staff,Contract,Campus Hiring,S1,33,2024-03-04,,Active,,26,14400000,11.8,10.7,3.1,Meets Expectations
+EMP-0322,Customer Service,Bandung,Staff,Permanent,Job Portal,S1,27,2024-04-16,,Active,,22,8300000,23.9,25.5,3.3000000000000003,Meets Expectations
+EMP-0323,Operations,Bandung,Staff,Permanent,LinkedIn,S2,26,2025-05-06,,Active,,26,5100000,10.2,14.0,4.2,Exceeds Expectations
+EMP-0324,Sales,Jakarta,Manager,Permanent,Referral,SMA/SMK,30,2025-10-20,,Active,,11,12000000,19.3,13.7,3.7,Meets Expectations
+EMP-0325,Operations,Surabaya,Supervisor,Permanent,Internal Mobility,S1,27,2025-06-30,,Active,,5,8600000,11.6,8.4,4.3,Exceeds Expectations
+EMP-0326,Human Resources,Jakarta,Senior Staff,Contract,Job Portal,S1,32,2024-08-30,,Active,,26,12200000,16.5,15.0,5,Exceeds Expectations
+EMP-0327,Customer Service,Jakarta,Staff,Contract,Referral,S1,33,2025-01-13,,Active,,19,6000000,20.1,10.4,2.9000000000000004,Exceeds Expectations
+EMP-0328,Human Resources,Jakarta,Staff,Contract,LinkedIn,S1,29,2025-01-23,,Active,,25,10400000,25.7,2.1,2.5,Needs Improvement
+EMP-0329,Finance,Bandung,Senior Staff,Permanent,Internal Mobility,S1,28,2025-11-12,,Active,,8,12400000,7.3,0,4.9,Meets Expectations
+EMP-0330,Operations,Jakarta,Staff,Permanent,LinkedIn,S1,31,2024-10-15,,Active,,28,6500000,23.0,14.5,3.7,Exceeds Expectations
+EMP-0331,Customer Service,Jakarta,Staff,Contract,Internal Mobility,D3,29,2025-07-11,,Active,,13,7600000,31.2,6.0,3.9000000000000004,Meets Expectations
+EMP-0332,Sales,Bandung,Senior Staff,Permanent,LinkedIn,S2,27,2025-09-29,2025-11-19,Exited,Career Growth,20,11500000,22.9,16.9,3.4,Exceeds Expectations
+EMP-0333,Marketing,Surabaya,Senior Staff,Permanent,Job Portal,S1,27,2025-03-14,,Active,,27,15500000,3.1,20.6,3.6,Meets Expectations
+EMP-0334,Operations,Surabaya,Staff,Permanent,Campus Hiring,S1,38,2024-03-31,,Active,,29,8100000,10.4,10.4,2.7,Exceeds Expectations
+EMP-0335,Marketing,Jakarta,Senior Staff,Contract,Job Portal,S1,30,2025-08-20,,Active,,26,11700000,12.4,27.3,4.1,Needs Improvement
+EMP-0336,Customer Service,Bogor,Staff,Contract,Campus Hiring,S1,26,2024-09-15,,Active,,25,6800000,12.1,5.6,2.9,Exceeds Expectations
+EMP-0337,Finance,Jakarta,Senior Staff,Permanent,Referral,S1,25,2024-05-02,,Active,,17,8300000,14.1,9.7,3.7,Meets Expectations
+EMP-0338,Sales,Bogor,Staff,Permanent,Agency,D3,32,2025-10-16,,Active,,27,8700000,5.8,13.1,3.7,Meets Expectations
+EMP-0339,IT & Data,Surabaya,Supervisor,Permanent,Job Portal,S1,33,2025-10-19,,Active,,36,15700000,2.3,16.3,3.6,Exceeds Expectations
+EMP-0340,Operations,Jakarta,Staff,Permanent,LinkedIn,S1,26,2025-12-13,,Active,,22,7400000,7.7,0,4.1,Exceeds Expectations
+EMP-0341,Human Resources,Bogor,Senior Staff,Permanent,Job Portal,S1,31,2024-12-04,,Active,,27,11600000,2.3,7.9,2.8,Meets Expectations
+EMP-0342,Sales,Bogor,Staff,Permanent,Agency,S1,25,2024-12-07,,Active,,26,9600000,11.1,4.2,2.9,Exceeds Expectations
+EMP-0343,Sales,Surabaya,Supervisor,Contract,Job Portal,S1,37,2024-11-18,,Active,,22,10400000,1,5.8,3.1,Meets Expectations
+EMP-0344,Operations,Jakarta,Supervisor,Permanent,Job Portal,S2,32,2024-08-16,,Active,,24,7800000,11.9,15.6,3.9,Exceeds Expectations
+EMP-0345,Finance,Bandung,Staff,Permanent,Job Portal,S1,33,2025-10-01,,Active,,21,6700000,14.8,18.6,3.1,Meets Expectations
+EMP-0346,Marketing,Bandung,Staff,Contract,LinkedIn,S1,24,2025-07-02,,Active,,20,13000000,14.5,6.0,4.2,Meets Expectations
+EMP-0347,Sales,Jakarta,Senior Staff,Contract,Job Portal,S1,27,2024-05-30,,Active,,26,9700000,15.6,25.3,4.1,Meets Expectations
+EMP-0348,Marketing,Surabaya,Staff,Permanent,Job Portal,S2,33,2024-09-11,,Active,,24,11200000,11.4,15.0,3.1,Meets Expectations
+EMP-0349,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,32,2024-12-27,,Active,,21,8400000,15.8,29.4,3.6,Exceeds Expectations
+EMP-0350,Finance,Jakarta,Supervisor,Permanent,Job Portal,S1,26,2025-11-19,,Active,,26,12200000,10.7,9.3,3.2,Meets Expectations
+EMP-0351,Operations,Bandung,Staff,Contract,LinkedIn,SMA/SMK,32,2025-12-14,,Active,,29,5800000,13.9,11.1,3.4,Needs Improvement
+EMP-0352,Marketing,Bogor,Staff,Permanent,Referral,S1,28,2024-05-30,,Active,,20,7800000,2.6,9.5,3.0,Needs Improvement
+EMP-0353,Customer Service,Surabaya,Senior Staff,Permanent,Campus Hiring,S2,32,2025-07-24,,Active,,32,6100000,9.6,17.3,3.9,Meets Expectations
+EMP-0354,Human Resources,Surabaya,Manager,Contract,LinkedIn,S1,35,2024-12-12,2025-04-16,Exited,Personal Reason,18,16700000,10.2,24.2,4.1,Needs Improvement
+EMP-0355,Operations,Jakarta,Senior Staff,Permanent,Campus Hiring,S2,22,2024-09-08,,Active,,27,10500000,13.2,0,4.1,Exceeds Expectations
+EMP-0356,Finance,Bogor,Staff,Permanent,Job Portal,S1,31,2025-05-04,2025-10-01,Exited,Better Opportunity,33,8200000,19.9,14.5,3.5,Exceeds Expectations
+EMP-0357,Customer Service,Bogor,Staff,Contract,LinkedIn,SMA/SMK,31,2025-06-06,,Active,,16,4900000,1,11.3,3.2,Exceeds Expectations
+EMP-0358,Finance,Jakarta,Staff,Permanent,Job Portal,S1,31,2024-04-29,,Active,,31,9900000,4.1,5.1,3.7,Meets Expectations
+EMP-0359,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,38,2025-11-14,2025-12-31,Exited,Career Growth,25,6700000,22.2,10.2,2.6,Meets Expectations
+EMP-0360,Human Resources,Jakarta,Staff,Permanent,Agency,S1,30,2024-12-21,,Active,,21,11500000,5.1,2.8,3.3,Meets Expectations
+EMP-0361,Operations,Jakarta,Senior Staff,Contract,LinkedIn,S1,24,2024-05-02,,Active,,26,8500000,10.3,12.2,4.0,Meets Expectations
+EMP-0362,Operations,Jakarta,Staff,Permanent,Internal Mobility,SMA/SMK,33,2025-01-02,,Active,,13,5800000,3.9,9.6,4.6000000000000005,Exceeds Expectations
+EMP-0363,Finance,Jakarta,Senior Staff,Permanent,Job Portal,S2,31,2024-05-11,,Active,,23,7900000,14.0,0.4,3.4,Meets Expectations
+EMP-0364,Human Resources,Surabaya,Staff,Permanent,Job Portal,S1,32,2024-10-16,,Active,,27,7500000,5.2,14.2,4.0,Meets Expectations
+EMP-0365,Sales,Surabaya,Supervisor,Permanent,Campus Hiring,S2,35,2024-05-20,,Active,,26,11900000,7.0,12.4,3.9,Meets Expectations
+EMP-0366,IT & Data,Jakarta,Staff,Permanent,Agency,S1,31,2025-10-31,,Active,,14,8200000,2.4,11.9,3.0,Exceeds Expectations
+EMP-0367,IT & Data,Bogor,Senior Staff,Permanent,Job Portal,SMA/SMK,21,2025-04-08,,Active,,23,21800000,11.6,2.0,3.3,Exceeds Expectations
+EMP-0368,Sales,Jakarta,Manager,Permanent,Job Portal,S1,35,2025-08-13,,Active,,24,14900000,7.6,26.2,1.7000000000000002,Meets Expectations
+EMP-0369,Sales,Bogor,Senior Staff,Permanent,Job Portal,D3,27,2025-09-12,,Active,,24,9500000,16.9,18.7,3.6999999999999997,Meets Expectations
+EMP-0370,Sales,Jakarta,Senior Staff,Permanent,Job Portal,S1,28,2024-03-29,,Active,,23,9600000,16.2,26.8,3.4,Meets Expectations
+EMP-0371,Operations,Jakarta,Staff,Permanent,Campus Hiring,S1,29,2025-03-22,,Active,,18,6900000,7.8,0.9,3.3,Meets Expectations
+EMP-0372,Sales,Bandung,Staff,Permanent,Referral,S1,31,2025-06-20,,Active,,19,10600000,17.6,12.8,3.7,Meets Expectations
+EMP-0373,Human Resources,Jakarta,Senior Staff,Permanent,Referral,S1,35,2024-01-12,,Active,,15,9000000,21.3,15.4,3.5,Meets Expectations
+EMP-0374,Customer Service,Bogor,Senior Staff,Permanent,Job Portal,D3,28,2025-03-10,,Active,,32,7900000,16.8,17.4,2.5,Meets Expectations
+EMP-0375,Sales,Jakarta,Senior Staff,Contract,Job Portal,S1,34,2025-01-28,2025-09-06,Exited,Contract End,27,9000000,18.9,14.1,4.3,Meets Expectations
+EMP-0376,IT & Data,Surabaya,Staff,Permanent,Job Portal,S1,26,2025-07-26,,Active,,33,12700000,23.4,2.6,4.9,Exceeds Expectations
+EMP-0377,Operations,Surabaya,Staff,Permanent,Internal Mobility,S1,34,2024-01-16,,Active,,12,5900000,18.1,7.6,3.8000000000000003,Exceeds Expectations
+EMP-0378,Sales,Jakarta,Supervisor,Permanent,Referral,S1,34,2025-11-05,,Active,,18,14300000,15.2,17.7,4.5,Meets Expectations
+EMP-0379,Marketing,Bandung,Staff,Contract,Agency,S1,30,2025-07-14,,Active,,22,8100000,9.8,28.3,2.7,Meets Expectations
+EMP-0380,Operations,Jakarta,Senior Staff,Permanent,Campus Hiring,S2,30,2024-10-20,,Active,,31,10800000,15.9,1.6,5,Meets Expectations
+EMP-0381,Customer Service,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,27,2024-03-27,,Active,,5,7200000,9.2,13.4,4.4,Exceeds Expectations
+EMP-0382,IT & Data,Bandung,Senior Staff,Permanent,Referral,S1,33,2025-01-12,,Active,,19,14200000,3.6,4.8,5,Meets Expectations
+EMP-0383,Operations,Jakarta,Staff,Permanent,Referral,S1,39,2024-01-30,2025-08-06,Exited,Compensation,17,8600000,25.0,4.6,3.9000000000000004,Meets Expectations
+EMP-0384,Sales,Jakarta,Senior Staff,Permanent,Referral,S2,35,2024-07-15,2025-02-03,Exited,Career Growth,20,7900000,19.1,21.8,3.0000000000000004,Meets Expectations
+EMP-0385,Marketing,Jakarta,Staff,Contract,Campus Hiring,S1,25,2025-04-14,,Active,,31,12700000,9.7,9.5,3.6,Meets Expectations
+EMP-0386,Marketing,Bogor,Staff,Permanent,LinkedIn,S1,28,2025-01-01,,Active,,13,11100000,10.9,2.6,3.4,Meets Expectations
+EMP-0387,Operations,Bogor,Senior Staff,Permanent,LinkedIn,S1,41,2025-08-22,,Active,,32,9200000,12.0,9.3,3.1,Exceeds Expectations
+EMP-0388,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,38,2025-10-05,,Active,,30,5700000,10.1,14.7,4.3,Meets Expectations
+EMP-0389,Operations,Bandung,Senior Staff,Permanent,Job Portal,S2,29,2025-11-22,,Active,,22,11100000,2.0,19.9,1,Needs Improvement
+EMP-0390,Operations,Jakarta,Staff,Permanent,Referral,S2,20,2025-10-22,,Active,,5,10000000,13.0,25.8,3.5000000000000004,Meets Expectations
+EMP-0391,Marketing,Jakarta,Staff,Contract,Internal Mobility,S1,33,2024-07-21,,Active,,19,11000000,13.2,19.4,3.3000000000000003,Meets Expectations
+EMP-0392,Sales,Bandung,Staff,Permanent,Internal Mobility,S1,20,2025-08-12,,Active,,9,10000000,12.6,11.2,3.6,Exceeds Expectations
+EMP-0393,Finance,Surabaya,Staff,Permanent,Job Portal,S2,32,2025-01-31,,Active,,24,11800000,17.1,19.1,2.8000000000000003,Needs Improvement
+EMP-0394,IT & Data,Surabaya,Manager,Permanent,LinkedIn,S1,32,2024-12-02,,Active,,32,23900000,5.3,11.0,3.4,Meets Expectations
+EMP-0395,Marketing,Jakarta,Staff,Permanent,Job Portal,S1,27,2024-11-17,,Active,,26,10700000,20.6,13.8,3.2,Meets Expectations
+EMP-0396,Finance,Jakarta,Senior Staff,Permanent,Referral,S1,27,2025-01-11,,Active,,11,10200000,14.0,13.3,4.4,Meets Expectations
+EMP-0397,Operations,Jakarta,Staff,Permanent,LinkedIn,D3,26,2024-05-27,,Active,,32,9600000,16.3,6.3,3.2,Exceeds Expectations
+EMP-0398,Sales,Bandung,Senior Staff,Permanent,Job Portal,S1,33,2024-11-24,2025-07-08,Exited,Workload,24,12100000,14.8,23.6,4.3,Meets Expectations
+EMP-0399,Sales,Bogor,Senior Staff,Permanent,LinkedIn,S1,21,2024-07-15,,Active,,24,12100000,1,4.6,3.4,Meets Expectations
+EMP-0400,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,27,2024-10-13,,Active,,23,9700000,14.9,24.9,4.199999999999999,Meets Expectations
+EMP-0401,Operations,Jakarta,Manager,Permanent,LinkedIn,SMA/SMK,28,2024-08-10,2025-12-26,Exited,Compensation,27,18400000,26.9,1.5,3.1,Meets Expectations
+EMP-0402,Operations,Bogor,Senior Staff,Contract,Campus Hiring,S1,23,2024-10-02,,Active,,34,8700000,19.0,11.0,4.3,Meets Expectations
+EMP-0403,Marketing,Surabaya,Staff,Permanent,Referral,S1,27,2025-09-03,,Active,,18,8700000,7.5,10.7,5,Meets Expectations
+EMP-0404,IT & Data,Jakarta,Senior Staff,Permanent,Job Portal,S1,31,2024-09-02,,Active,,16,20000000,18.5,10.5,4.2,Meets Expectations
+EMP-0405,Operations,Jakarta,Staff,Contract,LinkedIn,S1,29,2025-06-01,,Active,,21,8400000,20.6,18.0,4.4,Meets Expectations
+EMP-0406,Sales,Jakarta,Staff,Permanent,LinkedIn,D3,24,2025-06-13,,Active,,21,8100000,15.8,12.3,2.6,Meets Expectations
+EMP-0407,Sales,Jakarta,Staff,Permanent,Job Portal,S1,35,2024-02-13,2025-03-24,Exited,Better Opportunity,20,10700000,6.5,19.5,3.6,Meets Expectations
+EMP-0408,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,35,2024-02-28,,Active,,23,8100000,26.9,5.4,4.3,Meets Expectations
+EMP-0409,Human Resources,Jakarta,Supervisor,Contract,Internal Mobility,S1,36,2025-08-08,,Active,,14,11000000,35.9,0,3.8000000000000003,Exceeds Expectations
+EMP-0410,Sales,Jakarta,Senior Staff,Permanent,Referral,S1,27,2025-03-10,2025-08-28,Exited,Compensation,26,11200000,15.1,23.2,3.2,Meets Expectations
+EMP-0411,Finance,Bogor,Staff,Permanent,Agency,S2,37,2025-06-01,,Active,,16,12100000,1,9.2,4.5,Meets Expectations
+EMP-0412,Operations,Jakarta,Staff,Permanent,Campus Hiring,S1,42,2025-11-30,,Active,,29,7000000,17.7,14.2,4.0,Meets Expectations
+EMP-0413,Operations,Surabaya,Staff,Contract,Job Portal,S1,28,2025-07-10,,Active,,27,6700000,5.6,10.5,2.5,Meets Expectations
+EMP-0414,Marketing,Jakarta,Senior Staff,Permanent,Campus Hiring,S1,27,2024-09-07,,Active,,32,9100000,24.5,16.6,2.7,Meets Expectations
+EMP-0415,Marketing,Bogor,Supervisor,Permanent,Agency,S1,29,2025-02-28,,Active,,23,10900000,16.5,13.2,3.0,Meets Expectations
+EMP-0416,Sales,Surabaya,Manager,Permanent,Agency,S1,28,2025-08-16,,Active,,17,18700000,15.9,9.9,3.3,Meets Expectations
+EMP-0417,Customer Service,Bogor,Staff,Permanent,LinkedIn,S1,31,2024-04-21,2025-10-20,Exited,Career Growth,23,6200000,19.4,23.2,2.5,Needs Improvement
+EMP-0418,Customer Service,Jakarta,Senior Staff,Contract,Referral,S2,35,2024-03-24,,Active,,15,6100000,19.5,12.8,4.8,Needs Improvement
+EMP-0419,Operations,Jakarta,Manager,Permanent,Campus Hiring,S2,43,2024-10-04,2025-10-25,Exited,Compensation,40,18500000,1.2,15.9,2.5,Needs Improvement
+EMP-0420,Operations,Bogor,Senior Staff,Contract,Job Portal,S1,26,2024-02-01,,Active,,35,7600000,11.1,7.2,4.2,Meets Expectations
+EMP-0421,Marketing,Jakarta,Senior Staff,Permanent,Job Portal,S1,31,2025-11-23,,Active,,26,13400000,27.2,11.8,3.7,Meets Expectations
+EMP-0422,Sales,Jakarta,Senior Staff,Contract,Campus Hiring,S1,28,2025-10-16,,Active,,23,8800000,12.2,19.1,2.9,Meets Expectations
+EMP-0423,Sales,Jakarta,Staff,Contract,Job Portal,S1,25,2025-07-07,,Active,,19,11100000,21.9,4.3,4.6,Exceeds Expectations
+EMP-0424,IT & Data,Jakarta,Staff,Contract,Job Portal,S1,40,2024-04-27,,Active,,27,15700000,20.2,8.3,3.9,Meets Expectations
+EMP-0425,Customer Service,Jakarta,Staff,Permanent,Internal Mobility,S2,41,2025-07-29,,Active,,14,6400000,8.3,28.1,3.2,Meets Expectations
+EMP-0426,Operations,Jakarta,Staff,Permanent,Referral,S2,31,2024-05-03,,Active,,15,9600000,14.3,9.6,4.2,Meets Expectations
+EMP-0427,Operations,Bogor,Senior Staff,Permanent,Job Portal,D3,29,2025-02-20,2025-12-18,Exited,Better Opportunity,26,9500000,17.3,8.9,4.6,Meets Expectations
+EMP-0428,IT & Data,Jakarta,Manager,Permanent,Job Portal,S1,33,2025-11-14,2025-12-31,Exited,Better Opportunity,32,21300000,14.4,11.2,2.2,Meets Expectations
+EMP-0429,Finance,Surabaya,Supervisor,Permanent,Agency,S1,23,2025-07-25,,Active,,21,16300000,9.8,12.8,5,Meets Expectations
+EMP-0430,Sales,Jakarta,Senior Staff,Contract,Job Portal,D3,30,2024-11-15,2025-05-22,Exited,Compensation,21,10300000,22.1,17.9,4.2,Meets Expectations
+EMP-0431,IT & Data,Surabaya,Staff,Permanent,Job Portal,S1,31,2024-01-21,,Active,,20,10300000,1.1,2.5,4.6,Meets Expectations
+EMP-0432,IT & Data,Bogor,Staff,Permanent,Internal Mobility,S1,27,2024-09-29,,Active,,7,15900000,14.9,9.7,4.4,Meets Expectations
+EMP-0433,Marketing,Surabaya,Staff,Permanent,Job Portal,S1,36,2024-12-11,2025-04-10,Exited,Better Opportunity,20,8100000,1.4,1.0,4.2,Meets Expectations
+EMP-0434,Customer Service,Jakarta,Staff,Contract,Internal Mobility,S1,30,2024-01-08,2025-02-21,Exited,Career Growth,5,6300000,10.2,12.8,3.2,Meets Expectations
+EMP-0435,Operations,Bogor,Senior Staff,Permanent,Internal Mobility,SMA/SMK,36,2025-08-17,,Active,,5,11600000,17.9,7.5,4.3,Exceeds Expectations
+EMP-0436,Sales,Jakarta,Senior Staff,Permanent,Job Portal,S1,37,2025-11-10,,Active,,26,11500000,25.8,19.3,4.1,Exceeds Expectations
+EMP-0437,Sales,Jakarta,Senior Staff,Permanent,Campus Hiring,S1,30,2025-05-08,,Active,,35,10000000,15.7,33.9,2.9,Meets Expectations
+EMP-0438,Finance,Jakarta,Staff,Permanent,Referral,S1,40,2025-06-22,,Active,,18,8400000,12.4,3.0,4.6000000000000005,Exceeds Expectations
+EMP-0439,Customer Service,Surabaya,Senior Staff,Permanent,Internal Mobility,S1,31,2024-09-09,,Active,,8,9100000,15.9,20.6,3.7,Exceeds Expectations
+EMP-0440,Marketing,Surabaya,Senior Staff,Permanent,Internal Mobility,S1,40,2025-09-08,,Active,,16,12600000,18.2,0.9,4.5,Meets Expectations
+EMP-0441,Human Resources,Jakarta,Staff,Contract,Job Portal,SMA/SMK,36,2025-03-05,,Active,,27,8600000,24.9,13.9,2.2,Exceeds Expectations
+EMP-0442,Customer Service,Bandung,Staff,Contract,Referral,S2,35,2025-01-26,,Active,,19,4800000,9.0,16.9,5,Meets Expectations
+EMP-0443,IT & Data,Jakarta,Senior Staff,Permanent,LinkedIn,D3,20,2025-11-04,,Active,,15,19000000,15.8,8.3,3.6,Meets Expectations
+EMP-0444,Operations,Bogor,Supervisor,Contract,LinkedIn,S1,30,2025-12-15,,Active,,28,14000000,5.8,3.3,4.4,Meets Expectations
+EMP-0445,Finance,Jakarta,Staff,Contract,Job Portal,S1,28,2025-02-03,,Active,,23,10700000,18.0,6.5,4.2,Exceeds Expectations
+EMP-0446,IT & Data,Jakarta,Senior Staff,Contract,Job Portal,S1,28,2025-01-12,2025-11-15,Exited,Better Opportunity,18,9900000,19.1,21.4,2.2,Meets Expectations
+EMP-0447,IT & Data,Surabaya,Senior Staff,Permanent,Campus Hiring,S1,32,2024-10-27,,Active,,40,11900000,26.7,11.8,3.6,Exceeds Expectations
+EMP-0448,Sales,Bogor,Senior Staff,Permanent,Job Portal,S1,29,2025-04-10,,Active,,25,9300000,20.7,6.0,3.0,Meets Expectations
+EMP-0449,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,34,2024-06-15,2025-12-03,Exited,Better Opportunity,24,6700000,31.8,20.8,3.8000000000000003,Meets Expectations
+EMP-0450,Customer Service,Bandung,Senior Staff,Permanent,Job Portal,D3,32,2025-01-12,,Active,,22,8300000,9.4,19.3,4.3999999999999995,Exceeds Expectations
+EMP-0451,Sales,Jakarta,Staff,Permanent,Job Portal,S1,25,2025-04-11,,Active,,18,6300000,14.0,19.3,3.3000000000000003,Meets Expectations
+EMP-0452,IT & Data,Jakarta,Supervisor,Contract,Referral,S1,20,2025-06-06,2025-10-21,Exited,Better Opportunity,13,12700000,20.8,4.7,3.2,Meets Expectations
+EMP-0453,Customer Service,Surabaya,Senior Staff,Permanent,Internal Mobility,S1,26,2024-12-18,,Active,,15,10100000,10.0,4.2,3.3000000000000003,Meets Expectations
+EMP-0454,Sales,Surabaya,Staff,Contract,Campus Hiring,D3,25,2025-01-31,2025-06-04,Exited,Personal Reason,29,9700000,1,13.1,3.3,Meets Expectations
+EMP-0455,Sales,Jakarta,Staff,Contract,Internal Mobility,S1,30,2025-04-16,,Active,,5,8600000,4.5,8.8,4.7,Exceeds Expectations
+EMP-0456,Customer Service,Bogor,Staff,Permanent,Job Portal,S1,20,2025-05-02,2025-11-17,Exited,Workload,25,7600000,11.8,4.8,4.1,Exceeds Expectations
+EMP-0457,Marketing,Surabaya,Staff,Permanent,Job Portal,S1,29,2024-01-19,,Active,,24,11900000,9.7,13.9,3.2,Meets Expectations
+EMP-0458,Sales,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,33,2025-11-30,,Active,,6,12100000,14.7,18.1,4.6,Meets Expectations
+EMP-0459,Customer Service,Jakarta,Staff,Permanent,LinkedIn,S1,32,2025-08-29,,Active,,21,5200000,8.4,10.7,3.0,Meets Expectations
+EMP-0460,Operations,Jakarta,Senior Staff,Contract,Job Portal,S1,26,2025-05-10,,Active,,21,10200000,19.0,9.8,3.7,Exceeds Expectations
+EMP-0461,IT & Data,Bandung,Staff,Contract,Internal Mobility,S2,25,2024-05-02,,Active,,13,16200000,17.0,4.7,1.9,Exceeds Expectations
+EMP-0462,Sales,Bandung,Senior Staff,Contract,Referral,S1,32,2024-03-03,,Active,,16,10800000,3.5,11.8,3.9000000000000004,Exceeds Expectations
+EMP-0463,Marketing,Jakarta,Senior Staff,Contract,Agency,D3,23,2024-12-11,,Active,,13,11000000,15.9,1.3,1.7,Meets Expectations
+EMP-0464,Operations,Bandung,Staff,Permanent,Campus Hiring,D3,34,2025-10-05,,Active,,35,9300000,11.4,7.9,4.2,Meets Expectations
+EMP-0465,Customer Service,Jakarta,Staff,Permanent,Job Portal,S1,31,2025-09-29,,Active,,31,7300000,18.9,21.6,3.2,Meets Expectations
+EMP-0466,Customer Service,Bogor,Staff,Permanent,Referral,SMA/SMK,31,2024-10-18,,Active,,22,8200000,3.6,21.6,2.3000000000000003,Exceeds Expectations
+EMP-0467,Customer Service,Jakarta,Staff,Permanent,Job Portal,S2,30,2025-06-24,,Active,,30,6300000,2.3,23.0,3.6999999999999997,Meets Expectations
+EMP-0468,Customer Service,Bogor,Staff,Permanent,Agency,S1,31,2024-06-12,2025-04-05,Exited,Compensation,23,6500000,12.0,6.8,3.3,Meets Expectations
+EMP-0469,Customer Service,Bogor,Staff,Permanent,LinkedIn,S2,20,2025-09-06,,Active,,20,6500000,17.6,23.7,3.6999999999999997,Exceeds Expectations
+EMP-0470,IT & Data,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,24,2024-10-05,2025-04-07,Exited,Compensation,8,10800000,17.0,16.9,3.8000000000000003,Meets Expectations
+EMP-0471,Customer Service,Jakarta,Senior Staff,Permanent,Referral,S1,37,2025-08-01,,Active,,24,8000000,7.8,10.3,3.5,Meets Expectations
+EMP-0472,IT & Data,Jakarta,Staff,Permanent,LinkedIn,S1,33,2025-11-07,,Active,,18,17800000,8.3,12.8,3.4,Meets Expectations
+EMP-0473,Operations,Jakarta,Senior Staff,Contract,Job Portal,D3,31,2025-05-27,,Active,,22,7400000,6.5,3.5,3.6,Needs Improvement
+EMP-0474,Operations,Jakarta,Senior Staff,Permanent,Referral,S1,36,2025-05-04,,Active,,16,8300000,15.5,3.1,3.8000000000000003,Exceeds Expectations
+EMP-0475,Customer Service,Jakarta,Senior Staff,Permanent,Referral,S1,30,2024-01-22,,Active,,13,9900000,12.8,23.9,3.3000000000000003,Meets Expectations
+EMP-0476,Human Resources,Jakarta,Staff,Permanent,LinkedIn,S1,31,2025-09-01,,Active,,28,10800000,22.2,14.6,3.8,Meets Expectations
+EMP-0477,IT & Data,Jakarta,Manager,Permanent,Campus Hiring,S1,32,2025-06-12,,Active,,33,32100000,6.0,3.6,3.5,Exceeds Expectations
+EMP-0478,Customer Service,Jakarta,Staff,Permanent,Job Portal,S1,22,2024-06-20,,Active,,28,7100000,15.2,17.7,3.7,Exceeds Expectations
+EMP-0479,Sales,Bandung,Senior Staff,Permanent,LinkedIn,S1,32,2025-11-13,,Active,,22,10600000,8.4,16.3,3.5,Meets Expectations
+EMP-0480,IT & Data,Jakarta,Senior Staff,Contract,Job Portal,S1,20,2024-05-17,,Active,,21,14600000,9.5,14.2,3.1,Meets Expectations
+EMP-0481,IT & Data,Jakarta,Staff,Permanent,LinkedIn,S1,20,2025-02-01,,Active,,19,14100000,19.8,16.4,3.6,Exceeds Expectations
+EMP-0482,Operations,Jakarta,Staff,Permanent,Job Portal,S2,25,2025-12-06,,Active,,21,9200000,19.0,17.2,2.9,Meets Expectations
+EMP-0483,Sales,Bandung,Senior Staff,Permanent,LinkedIn,S1,33,2025-03-02,2025-08-19,Exited,Compensation,20,13300000,11.0,9.1,3.4,Meets Expectations
+EMP-0484,Human Resources,Jakarta,Staff,Permanent,LinkedIn,SMA/SMK,34,2025-05-15,,Active,,24,8700000,5.7,20.0,3.6999999999999997,Exceeds Expectations
+EMP-0485,Sales,Surabaya,Staff,Contract,Job Portal,S2,20,2025-08-30,,Active,,18,9000000,4.8,16.5,2.8,Meets Expectations
+EMP-0486,Finance,Jakarta,Senior Staff,Permanent,Job Portal,S1,20,2024-12-24,,Active,,21,13200000,12.3,4.9,4.4,Meets Expectations
+EMP-0487,Finance,Bandung,Staff,Contract,Referral,SMA/SMK,29,2025-05-16,,Active,,23,8300000,3.7,6.3,4.3,Meets Expectations
+EMP-0488,Sales,Bogor,Staff,Permanent,LinkedIn,S1,31,2025-12-11,,Active,,19,6500000,12.4,17.1,3.4,Meets Expectations
+EMP-0489,Sales,Bogor,Staff,Permanent,Internal Mobility,D3,32,2024-08-01,,Active,,10,8400000,14.6,10.2,4.2,Exceeds Expectations
+EMP-0490,Finance,Jakarta,Staff,Contract,LinkedIn,S1,25,2024-02-19,,Active,,21,7700000,16.6,17.2,3.9,Meets Expectations
+EMP-0491,Customer Service,Bandung,Senior Staff,Permanent,Campus Hiring,S1,38,2025-07-28,,Active,,37,8500000,19.5,15.6,3.6,Meets Expectations
+EMP-0492,Sales,Bandung,Senior Staff,Contract,Internal Mobility,D3,28,2025-01-03,,Active,,5,11700000,17.8,4.7,3.3000000000000003,Meets Expectations
+EMP-0493,Operations,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,26,2025-03-31,,Active,,5,9700000,15.9,19.8,3.2,Meets Expectations
+EMP-0494,Customer Service,Jakarta,Senior Staff,Permanent,Job Portal,S2,27,2025-01-11,2025-06-19,Exited,Personal Reason,34,8800000,12.0,24.0,2.8000000000000003,Meets Expectations
+EMP-0495,Marketing,Bandung,Staff,Permanent,Job Portal,S1,25,2024-08-29,,Active,,20,13300000,13.6,14.6,2.2,Meets Expectations
+EMP-0496,Sales,Surabaya,Senior Staff,Permanent,LinkedIn,S1,28,2024-09-20,,Active,,25,12100000,9.3,18.4,3.2,Meets Expectations
+EMP-0497,Finance,Bogor,Staff,Permanent,Agency,S1,31,2025-04-03,,Active,,9,6900000,17.8,5.2,3.5,Meets Expectations
+EMP-0498,IT & Data,Jakarta,Senior Staff,Permanent,Job Portal,SMA/SMK,30,2025-05-29,2025-08-05,Exited,Personal Reason,33,11200000,10.1,5.4,3.7,Exceeds Expectations
+EMP-0499,IT & Data,Bandung,Staff,Permanent,LinkedIn,D3,29,2024-11-23,,Active,,27,10500000,8.9,0,2.5,Meets Expectations
+EMP-0500,Sales,Surabaya,Supervisor,Permanent,Referral,S1,24,2025-10-09,,Active,,14,14500000,5.2,32.0,3.4000000000000004,Exceeds Expectations
+EMP-0501,Sales,Bandung,Senior Staff,Permanent,Internal Mobility,S1,26,2025-05-17,,Active,,5,7300000,22.1,8.7,4.0,Needs Improvement
+EMP-0502,Sales,Bandung,Supervisor,Contract,Referral,S1,32,2024-01-18,,Active,,23,12100000,15.0,11.1,3.7,Exceeds Expectations
+EMP-0503,IT & Data,Bandung,Senior Staff,Permanent,Campus Hiring,SMA/SMK,22,2025-03-12,,Active,,32,10400000,18.5,23.1,4.1,Meets Expectations
+EMP-0504,Marketing,Jakarta,Manager,Contract,Agency,S2,22,2025-08-29,,Active,,21,13000000,18.8,3.1,4.7,Meets Expectations
+EMP-0505,IT & Data,Bandung,Supervisor,Permanent,Job Portal,S1,28,2025-07-18,,Active,,28,18400000,5.0,3.4,4.7,Exceeds Expectations
+EMP-0506,IT & Data,Jakarta,Staff,Contract,Job Portal,S1,32,2024-04-26,,Active,,27,8700000,18.7,0,3.0,Meets Expectations
+EMP-0507,Customer Service,Bandung,Supervisor,Permanent,Campus Hiring,S1,26,2024-09-06,,Active,,26,11500000,1,10.9,3.3,Meets Expectations
+EMP-0508,Customer Service,Jakarta,Staff,Permanent,Referral,D3,31,2025-12-08,,Active,,16,8300000,11.4,7.1,4.0,Meets Expectations
+EMP-0509,Sales,Surabaya,Staff,Permanent,Internal Mobility,S2,24,2025-09-25,2025-12-18,Exited,Career Growth,10,9100000,7.2,21.3,3.1,Meets Expectations
+EMP-0510,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,28,2024-12-18,,Active,,26,8600000,12.5,15.0,3.2,Meets Expectations
+EMP-0511,Sales,Jakarta,Staff,Permanent,LinkedIn,D3,25,2025-07-20,,Active,,20,8500000,24.1,10.8,3.8,Meets Expectations
+EMP-0512,Finance,Surabaya,Senior Staff,Permanent,LinkedIn,S1,20,2024-09-17,,Active,,24,12500000,14.6,5.4,3.1,Meets Expectations
+EMP-0513,Operations,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,29,2024-05-22,,Active,,12,8100000,15.6,21.4,3.7,Exceeds Expectations
+EMP-0514,Marketing,Jakarta,Staff,Contract,Referral,S1,32,2024-11-28,,Active,,19,8000000,18.7,2.3,3.8000000000000003,Exceeds Expectations
+EMP-0515,Marketing,Jakarta,Staff,Permanent,Job Portal,D3,26,2025-06-18,,Active,,27,9000000,1.3,23.2,2.6,Meets Expectations
+EMP-0516,IT & Data,Surabaya,Senior Staff,Contract,Campus Hiring,D3,32,2025-09-15,,Active,,31,20800000,19.3,9.4,3.0,Exceeds Expectations
+EMP-0517,IT & Data,Jakarta,Staff,Contract,Campus Hiring,D3,28,2025-10-19,,Active,,22,17100000,5.9,11.4,3.5,Exceeds Expectations
+EMP-0518,IT & Data,Jakarta,Staff,Permanent,Referral,S1,20,2025-01-09,,Active,,20,16000000,22.0,7.5,3.5,Meets Expectations
+EMP-0519,Human Resources,Surabaya,Staff,Contract,Job Portal,D3,38,2025-10-16,,Active,,28,11100000,8.4,12.2,3.2,Meets Expectations
+EMP-0520,IT & Data,Jakarta,Manager,Contract,Job Portal,S2,26,2025-08-08,,Active,,22,16600000,17.3,1.6,4.0,Exceeds Expectations
+EMP-0521,Sales,Bandung,Senior Staff,Permanent,Job Portal,S1,33,2025-07-11,2025-10-13,Exited,Better Opportunity,31,6800000,9.7,3.8,2.6,Meets Expectations
+EMP-0522,Operations,Bandung,Staff,Permanent,Referral,S1,21,2025-12-01,,Active,,14,7700000,2.4,1.6,3.3000000000000003,Exceeds Expectations
+EMP-0523,Sales,Jakarta,Staff,Permanent,Job Portal,S1,32,2025-07-03,,Active,,24,7800000,6.2,8.8,3.7,Meets Expectations
+EMP-0524,Sales,Jakarta,Senior Staff,Contract,Internal Mobility,S2,32,2025-04-01,,Active,,5,6900000,15.6,13.7,3.5,Exceeds Expectations
+EMP-0525,Operations,Jakarta,Staff,Permanent,Campus Hiring,D3,31,2024-11-14,,Active,,36,8600000,7.2,13.5,3.0,Meets Expectations
+EMP-0526,Customer Service,Bandung,Senior Staff,Permanent,Job Portal,SMA/SMK,33,2024-10-13,,Active,,25,7200000,1.3,19.7,3.0,Meets Expectations
+EMP-0527,Customer Service,Jakarta,Staff,Contract,Agency,D3,25,2025-04-20,,Active,,18,6900000,20.6,19.5,4.1,Meets Expectations
+EMP-0528,Sales,Jakarta,Senior Staff,Contract,Agency,S1,30,2024-11-25,,Active,,12,11400000,12.1,21.9,4.6,Needs Improvement
+EMP-0529,Customer Service,Jakarta,Staff,Permanent,Campus Hiring,S1,35,2025-08-31,2025-11-15,Exited,Personal Reason,35,5500000,13.4,15.0,2.4,Meets Expectations
+EMP-0530,Customer Service,Jakarta,Staff,Contract,Agency,S1,30,2025-06-27,,Active,,17,5600000,17.8,22.5,2.6,Needs Improvement
+EMP-0531,Sales,Bandung,Staff,Permanent,Campus Hiring,SMA/SMK,25,2025-08-15,,Active,,32,11000000,13.3,17.0,4.2,Meets Expectations
+EMP-0532,Customer Service,Surabaya,Staff,Permanent,Job Portal,S1,34,2024-03-20,,Active,,12,6700000,16.0,14.3,3.2,Meets Expectations
+EMP-0533,Sales,Jakarta,Staff,Permanent,Internal Mobility,S1,20,2024-06-06,,Active,,9,10000000,9.3,8.5,4.2,Meets Expectations
+EMP-0534,Sales,Jakarta,Senior Staff,Contract,Referral,S1,36,2025-01-24,2025-08-24,Exited,Better Opportunity,6,6800000,16.2,9.8,3.6,Exceeds Expectations
+EMP-0535,Operations,Jakarta,Staff,Contract,Internal Mobility,S1,26,2024-07-19,,Active,,5,9800000,12.1,3.9,4.9,Meets Expectations
+EMP-0536,Sales,Jakarta,Staff,Permanent,Job Portal,SMA/SMK,35,2024-11-18,,Active,,31,7900000,6.1,2.4,4.0,Meets Expectations
+EMP-0537,Sales,Jakarta,Staff,Contract,Job Portal,D3,37,2025-04-24,,Active,,21,6000000,14.5,15.5,3.8,Meets Expectations
+EMP-0538,Human Resources,Jakarta,Manager,Permanent,LinkedIn,S1,22,2025-10-16,,Active,,33,14100000,9.4,16.1,5,Exceeds Expectations
+EMP-0539,Human Resources,Bogor,Manager,Permanent,Internal Mobility,S2,31,2025-04-27,,Active,,8,20900000,7.0,5.5,4.1,Meets Expectations
+EMP-0540,Marketing,Surabaya,Manager,Contract,Job Portal,D3,30,2025-11-17,,Active,,32,21000000,10.8,8.5,3.6,Meets Expectations
+EMP-0541,Sales,Bogor,Senior Staff,Permanent,Referral,S1,29,2025-03-14,,Active,,14,7400000,4.7,9.6,4.2,Meets Expectations
+EMP-0542,Customer Service,Bandung,Manager,Permanent,Job Portal,S1,26,2025-02-25,,Active,,22,15000000,22.2,15.7,3.3,Meets Expectations
+EMP-0543,Customer Service,Surabaya,Staff,Permanent,Referral,S2,28,2024-11-07,2025-12-09,Exited,Workload,12,8300000,7.9,12.9,3.4000000000000004,Meets Expectations
+EMP-0544,Sales,Bandung,Senior Staff,Permanent,Job Portal,S1,27,2025-06-10,2025-07-31,Exited,Better Opportunity,25,8500000,1,16.1,3.1,Meets Expectations
+EMP-0545,Customer Service,Jakarta,Senior Staff,Permanent,Agency,S1,29,2025-10-08,,Active,,23,8800000,11.3,15.5,3.5,Exceeds Expectations
+EMP-0546,Operations,Jakarta,Staff,Permanent,LinkedIn,S1,24,2024-08-12,,Active,,28,6200000,11.0,21.0,3.4,Exceeds Expectations
+EMP-0547,Operations,Jakarta,Staff,Permanent,Internal Mobility,S1,21,2024-03-12,,Active,,9,6800000,29.7,14.1,2.8000000000000003,Meets Expectations
+EMP-0548,Marketing,Jakarta,Staff,Contract,Campus Hiring,S1,38,2024-06-11,,Active,,32,12200000,14.3,7.1,4.2,Exceeds Expectations
+EMP-0549,Finance,Jakarta,Senior Staff,Permanent,Job Portal,S1,33,2025-06-14,,Active,,23,12100000,18.6,5.3,3.6,Meets Expectations
+EMP-0550,Operations,Jakarta,Staff,Permanent,Internal Mobility,SMA/SMK,20,2025-02-23,2025-05-13,Exited,Personal Reason,5,9500000,10.9,17.1,4.3,Meets Expectations
+EMP-0551,Operations,Jakarta,Staff,Permanent,LinkedIn,S1,36,2025-05-27,2025-07-20,Exited,Career Growth,22,8000000,22.1,8.0,3.4,Meets Expectations
+EMP-0552,Marketing,Jakarta,Staff,Permanent,Referral,S1,34,2024-06-07,,Active,,12,6700000,12.6,18.3,3.7,Meets Expectations
+EMP-0553,Marketing,Jakarta,Supervisor,Permanent,Referral,S2,29,2025-02-20,,Active,,11,18600000,26.4,9.0,2.8000000000000003,Meets Expectations
+EMP-0554,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,29,2024-11-02,,Active,,15,9100000,21.3,4.4,3.7,Exceeds Expectations
+EMP-0555,Sales,Bogor,Staff,Contract,Job Portal,S1,38,2025-04-07,,Active,,19,10400000,22.0,20.5,2.9,Exceeds Expectations
+EMP-0556,Marketing,Surabaya,Senior Staff,Permanent,LinkedIn,SMA/SMK,36,2025-03-16,,Active,,28,14600000,17.3,13.0,3.8,Meets Expectations
+EMP-0557,Human Resources,Bogor,Staff,Permanent,Referral,S1,27,2025-06-27,,Active,,16,10800000,12.6,0,4.0,Meets Expectations
+EMP-0558,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,28,2024-01-16,,Active,,29,9900000,22.6,2.6,3.7,Meets Expectations
+EMP-0559,Customer Service,Jakarta,Supervisor,Permanent,Job Portal,S1,29,2025-09-26,2025-12-28,Exited,Workload,35,7300000,24.3,8.1,3.4,Meets Expectations
+EMP-0560,Marketing,Bandung,Supervisor,Permanent,LinkedIn,S1,39,2024-06-25,,Active,,20,12400000,18.4,6.8,2.8,Meets Expectations
+EMP-0561,Marketing,Jakarta,Staff,Permanent,Referral,S1,36,2024-05-18,,Active,,13,7100000,17.9,4.8,3.2,Meets Expectations
+EMP-0562,Customer Service,Bogor,Staff,Permanent,Job Portal,S1,35,2025-03-21,,Active,,26,5200000,19.2,5.3,4.3,Needs Improvement
+EMP-0563,Customer Service,Bogor,Staff,Contract,LinkedIn,S1,21,2025-02-01,2025-07-02,Exited,Career Growth,25,7100000,22.3,12.7,3.3,Meets Expectations
+EMP-0564,Finance,Jakarta,Staff,Permanent,Job Portal,S1,34,2025-01-28,,Active,,22,8800000,19.8,5.9,2.8,Needs Improvement
+EMP-0565,Customer Service,Bandung,Staff,Permanent,Job Portal,S2,30,2024-06-26,,Active,,24,5300000,3.2,17.1,3.8,Meets Expectations
+EMP-0566,IT & Data,Jakarta,Staff,Permanent,LinkedIn,S1,31,2025-08-30,,Active,,33,13200000,10.5,14.3,3.0,Meets Expectations
+EMP-0567,Sales,Jakarta,Staff,Permanent,Job Portal,S1,26,2024-06-27,,Active,,33,7400000,6.3,13.1,2.8,Meets Expectations
+EMP-0568,IT & Data,Bandung,Staff,Contract,Agency,S1,36,2024-01-08,,Active,,17,12800000,7.5,12.1,2.8,Meets Expectations
+EMP-0569,Sales,Bandung,Staff,Contract,LinkedIn,S1,24,2025-10-04,,Active,,26,8400000,17.0,5.1,3.5,Meets Expectations
+EMP-0570,Sales,Jakarta,Senior Staff,Permanent,Agency,S1,20,2024-12-28,,Active,,18,10500000,5.7,32.5,2.9,Meets Expectations
+EMP-0571,Sales,Jakarta,Staff,Permanent,Job Portal,S2,27,2024-01-03,2024-02-22,Exited,Career Growth,25,7200000,13.2,17.8,3.8,Exceeds Expectations
+EMP-0572,Marketing,Jakarta,Manager,Permanent,Campus Hiring,SMA/SMK,20,2025-05-06,,Active,,29,16500000,29.5,5.1,2.9,Exceeds Expectations
+EMP-0573,Marketing,Jakarta,Senior Staff,Permanent,Referral,D3,26,2024-09-22,,Active,,15,14700000,16.0,14.2,4.7,Meets Expectations
+EMP-0574,Operations,Jakarta,Staff,Permanent,Internal Mobility,S1,20,2025-11-19,,Active,,12,5400000,20.0,14.2,4.8,Meets Expectations
+EMP-0575,Operations,Surabaya,Staff,Permanent,Agency,S2,29,2024-02-13,,Active,,15,5400000,1,4.2,3.4,Exceeds Expectations
+EMP-0576,Customer Service,Jakarta,Staff,Permanent,LinkedIn,SMA/SMK,31,2025-01-06,,Active,,23,6200000,15.6,23.5,3.5,Needs Improvement
+EMP-0577,Sales,Bogor,Supervisor,Contract,Job Portal,S1,28,2025-07-06,,Active,,30,13700000,13.4,12.5,3.3,Meets Expectations
+EMP-0578,Operations,Bogor,Staff,Permanent,Agency,D3,20,2024-10-22,,Active,,10,9200000,12.6,3.3,4.2,Meets Expectations
+EMP-0579,Customer Service,Jakarta,Staff,Permanent,Internal Mobility,S1,32,2025-06-30,,Active,,10,5700000,19.6,6.2,4.3,Meets Expectations
+EMP-0580,IT & Data,Jakarta,Supervisor,Permanent,Job Portal,S2,20,2024-03-12,,Active,,26,18000000,21.0,13.2,4.7,Exceeds Expectations
+EMP-0581,Sales,Jakarta,Senior Staff,Permanent,Referral,S1,24,2024-01-15,,Active,,20,13000000,6.5,12.6,2.9000000000000004,Needs Improvement
+EMP-0582,Finance,Jakarta,Staff,Permanent,Referral,S1,24,2025-09-24,,Active,,5,10300000,15.8,5.9,4.4,Exceeds Expectations
+EMP-0583,IT & Data,Bandung,Staff,Contract,LinkedIn,S1,29,2024-01-27,,Active,,22,13100000,7.7,16.5,2.1,Exceeds Expectations
+EMP-0584,Sales,Jakarta,Staff,Contract,LinkedIn,S1,30,2024-05-25,2025-09-07,Exited,Better Opportunity,16,8100000,11.8,11.3,3.3,Exceeds Expectations
+EMP-0585,Operations,Jakarta,Senior Staff,Permanent,Job Portal,S1,24,2024-09-18,,Active,,23,10000000,23.8,8.7,3.6,Exceeds Expectations
+EMP-0586,Marketing,Bogor,Staff,Permanent,Agency,S1,22,2025-09-25,,Active,,20,12700000,4.9,14.8,4.9,Meets Expectations
+EMP-0587,Operations,Jakarta,Staff,Permanent,LinkedIn,SMA/SMK,32,2024-07-30,,Active,,13,5400000,16.3,8.1,4.2,Exceeds Expectations
+EMP-0588,Sales,Jakarta,Senior Staff,Permanent,Job Portal,S1,33,2025-10-03,,Active,,27,8500000,14.5,6.2,3.9,Meets Expectations
+EMP-0589,Human Resources,Bandung,Senior Staff,Permanent,Campus Hiring,S2,25,2025-12-14,,Active,,37,8700000,12.4,4.5,2.5,Meets Expectations
+EMP-0590,Marketing,Bandung,Supervisor,Contract,Campus Hiring,S1,37,2025-04-30,,Active,,23,18700000,7.7,11.1,3.1,Needs Improvement
+EMP-0591,Sales,Surabaya,Manager,Permanent,LinkedIn,S2,34,2025-04-14,,Active,,22,16800000,11.7,21.8,3.1,Exceeds Expectations
+EMP-0592,Customer Service,Jakarta,Staff,Contract,Internal Mobility,S2,25,2025-07-16,,Active,,6,5400000,11.3,23.5,3.6,Exceeds Expectations
+EMP-0593,Sales,Jakarta,Staff,Permanent,Internal Mobility,S2,35,2024-04-25,,Active,,17,11400000,16.9,5.2,2.6,Meets Expectations
+EMP-0594,IT & Data,Jakarta,Senior Staff,Contract,Internal Mobility,S1,29,2024-04-25,2025-03-04,Exited,Better Opportunity,6,14700000,26.9,5.4,3.6,Exceeds Expectations
+EMP-0595,Human Resources,Bogor,Senior Staff,Contract,Job Portal,D3,28,2025-08-06,,Active,,22,8500000,7.5,0,2.8,Meets Expectations
+EMP-0596,Marketing,Bandung,Staff,Permanent,Job Portal,S1,24,2025-09-26,,Active,,32,12900000,12.6,12.7,2.8,Needs Improvement
+EMP-0597,Customer Service,Bogor,Senior Staff,Permanent,Agency,S1,30,2024-02-13,,Active,,26,7100000,7.2,21.4,3.8000000000000003,Meets Expectations
+EMP-0598,Human Resources,Bogor,Staff,Permanent,Internal Mobility,D3,33,2024-09-04,,Active,,5,9400000,8.3,23.4,3.3000000000000003,Exceeds Expectations
+EMP-0599,Operations,Jakarta,Staff,Permanent,LinkedIn,S1,40,2025-08-14,,Active,,13,6500000,11.9,11.4,3.4,Meets Expectations
+EMP-0600,Customer Service,Jakarta,Supervisor,Permanent,Agency,S1,36,2024-02-14,2024-10-12,Exited,Contract End,12,8800000,13.3,15.7,3.4,Meets Expectations
+EMP-0601,Human Resources,Bandung,Senior Staff,Permanent,Job Portal,D3,31,2025-01-30,,Active,,23,13600000,1.2,13.7,2.2,Exceeds Expectations
+EMP-0602,Operations,Bandung,Staff,Permanent,Job Portal,S1,28,2024-04-17,,Active,,22,10000000,6.7,23.4,3.9,Meets Expectations
+EMP-0603,Marketing,Bogor,Senior Staff,Contract,Referral,S1,29,2025-06-17,,Active,,16,10500000,11.1,13.8,2.3000000000000003,Exceeds Expectations
+EMP-0604,Human Resources,Bandung,Staff,Permanent,Referral,S1,32,2025-03-14,,Active,,17,11500000,21.0,11.2,1.9,Meets Expectations
+EMP-0605,Operations,Bogor,Staff,Permanent,Campus Hiring,S2,30,2025-10-27,2025-12-16,Exited,Workload,32,9900000,2.2,10.7,4.6,Meets Expectations
+EMP-0606,IT & Data,Bandung,Senior Staff,Permanent,Job Portal,S1,31,2025-09-05,,Active,,20,13200000,3.1,14.6,3.9,Needs Improvement
+EMP-0607,Sales,Jakarta,Staff,Permanent,LinkedIn,S1,33,2024-04-01,2025-04-08,Exited,Workload,23,8300000,22.6,14.1,2.9,Meets Expectations
+EMP-0608,Human Resources,Jakarta,Staff,Permanent,Internal Mobility,S2,30,2025-08-07,2025-11-11,Exited,Compensation,6,10700000,17.6,3.4,2.6,Meets Expectations
+EMP-0609,Sales,Jakarta,Staff,Permanent,Internal Mobility,S1,30,2025-04-28,,Active,,12,8800000,22.3,23.1,3.0000000000000004,Meets Expectations
+EMP-0610,Customer Service,Bogor,Staff,Contract,Job Portal,S2,34,2024-04-17,2025-04-18,Exited,Better Opportunity,28,4900000,20.2,5.0,4.5,Meets Expectations
+EMP-0611,IT & Data,Jakarta,Staff,Contract,LinkedIn,S1,20,2025-08-27,2025-12-04,Exited,Career Growth,22,14300000,23.9,4.3,2.6,Meets Expectations
+EMP-0612,Human Resources,Jakarta,Staff,Permanent,Referral,S1,33,2025-10-26,,Active,,15,6800000,22.9,8.1,4.4,Meets Expectations
+EMP-0613,Sales,Jakarta,Staff,Contract,Referral,SMA/SMK,23,2025-10-27,2025-12-15,Exited,Better Opportunity,12,9900000,27.9,31.7,3.6,Exceeds Expectations
+EMP-0614,Sales,Bogor,Staff,Permanent,LinkedIn,S1,28,2024-07-09,,Active,,22,7000000,8.3,3.2,3.0,Exceeds Expectations
+EMP-0615,IT & Data,Jakarta,Staff,Permanent,Internal Mobility,SMA/SMK,26,2024-07-03,,Active,,14,17100000,24.0,0,3.9000000000000004,Needs Improvement
+EMP-0616,Operations,Bandung,Staff,Permanent,Referral,S1,31,2024-04-06,2024-07-24,Exited,Personal Reason,15,6700000,12.4,0,3.3000000000000003,Meets Expectations
+EMP-0617,Marketing,Jakarta,Staff,Contract,LinkedIn,SMA/SMK,27,2025-03-14,2025-11-17,Exited,Career Growth,24,7100000,20.4,15.0,3.1,Meets Expectations
+EMP-0618,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,31,2025-10-16,,Active,,22,7300000,18.9,16.1,3.6,Meets Expectations
+EMP-0619,Finance,Bogor,Staff,Contract,Referral,D3,28,2025-07-23,,Active,,11,11900000,6.7,14.1,3.4000000000000004,Meets Expectations
+EMP-0620,Finance,Jakarta,Staff,Permanent,Referral,S1,28,2025-09-23,2025-12-11,Exited,Career Growth,11,8300000,13.4,12.5,2.3000000000000003,Meets Expectations
+EMP-0621,Operations,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,28,2025-05-05,,Active,,8,7700000,26.0,11.6,4.0,Meets Expectations
+EMP-0622,IT & Data,Jakarta,Staff,Permanent,Internal Mobility,S1,27,2024-02-25,,Active,,6,16500000,19.1,12.7,3.4000000000000004,Exceeds Expectations
+EMP-0623,IT & Data,Bogor,Staff,Permanent,LinkedIn,S1,36,2025-03-03,,Active,,29,11100000,11.1,11.9,4.5,Needs Improvement
+EMP-0624,IT & Data,Bandung,Staff,Permanent,Job Portal,S1,36,2025-02-10,,Active,,27,13900000,16.5,18.8,2.3000000000000003,Meets Expectations
+EMP-0625,Sales,Bandung,Senior Staff,Permanent,Agency,D3,29,2024-03-18,,Active,,14,8100000,1.4,19.0,3.9,Meets Expectations
+EMP-0626,Sales,Jakarta,Staff,Permanent,Referral,S1,23,2025-11-21,,Active,,19,6000000,5.4,10.8,2.9000000000000004,Exceeds Expectations
+EMP-0627,Marketing,Bogor,Staff,Contract,Internal Mobility,S1,30,2025-12-04,,Active,,8,12900000,14.3,8.2,4.3,Exceeds Expectations
+EMP-0628,Marketing,Surabaya,Supervisor,Permanent,Referral,S1,32,2024-11-02,,Active,,26,10700000,14.3,6.2,4.2,Exceeds Expectations
+EMP-0629,Operations,Jakarta,Manager,Permanent,Campus Hiring,S2,32,2025-03-31,,Active,,30,18700000,18.1,9.5,4.6,Meets Expectations
+EMP-0630,Operations,Bandung,Staff,Permanent,Internal Mobility,S1,22,2024-10-13,,Active,,16,6100000,14.3,26.3,3.2,Exceeds Expectations
+EMP-0631,Human Resources,Surabaya,Senior Staff,Permanent,LinkedIn,SMA/SMK,31,2024-02-14,,Active,,24,10200000,22.8,0,2.8,Meets Expectations
+EMP-0632,Operations,Surabaya,Staff,Permanent,Job Portal,S1,20,2025-01-22,,Active,,27,7800000,1.5,25.3,2.3000000000000003,Meets Expectations
+EMP-0633,Operations,Bogor,Supervisor,Permanent,Referral,S1,34,2025-12-03,,Active,,11,7500000,9.5,21.0,3.1,Meets Expectations
+EMP-0634,Sales,Jakarta,Supervisor,Permanent,Internal Mobility,S1,36,2025-05-16,,Active,,11,9400000,13.8,7.3,4.9,Exceeds Expectations
+EMP-0635,Sales,Jakarta,Senior Staff,Permanent,Referral,D3,24,2025-10-10,,Active,,18,8800000,19.1,16.9,3.4000000000000004,Meets Expectations
+EMP-0636,Marketing,Bogor,Supervisor,Permanent,LinkedIn,SMA/SMK,28,2025-11-04,,Active,,26,16300000,1,4.3,4.3,Meets Expectations
+EMP-0637,Marketing,Jakarta,Senior Staff,Permanent,LinkedIn,S2,35,2025-03-07,2025-09-11,Exited,Career Growth,24,15100000,1,15.1,3.7,Meets Expectations
+EMP-0638,Operations,Bandung,Staff,Permanent,Internal Mobility,S1,26,2024-08-17,,Active,,21,7800000,31.9,13.5,3.7,Meets Expectations
+EMP-0639,Human Resources,Jakarta,Staff,Permanent,Job Portal,S2,31,2024-11-17,,Active,,27,11400000,15.8,4.8,3.9,Meets Expectations
+EMP-0640,Sales,Surabaya,Staff,Permanent,LinkedIn,D3,38,2024-08-23,,Active,,23,9800000,8.0,10.9,2.6,Meets Expectations
+EMP-0641,Operations,Jakarta,Staff,Permanent,Job Portal,S1,27,2025-08-19,2025-10-07,Exited,Compensation,30,8300000,7.8,9.2,3.1,Meets Expectations
+EMP-0642,Sales,Jakarta,Staff,Contract,Agency,D3,31,2024-05-21,,Active,,16,9400000,9.7,12.6,3.4,Meets Expectations
+EMP-0643,Sales,Surabaya,Supervisor,Contract,Job Portal,S1,25,2024-08-24,,Active,,27,15600000,12.6,29.2,3.0,Meets Expectations
+EMP-0644,Sales,Jakarta,Supervisor,Permanent,LinkedIn,S1,27,2025-01-26,,Active,,29,13800000,7.3,18.8,3.1,Meets Expectations
+EMP-0645,Marketing,Bogor,Staff,Permanent,Internal Mobility,S1,29,2024-09-29,,Active,,9,11400000,20.3,9.8,2.9000000000000004,Needs Improvement
+EMP-0646,Customer Service,Jakarta,Staff,Contract,Referral,SMA/SMK,34,2024-09-03,,Active,,9,8300000,25.5,14.3,3.5,Meets Expectations
+EMP-0647,IT & Data,Bandung,Manager,Permanent,Job Portal,SMA/SMK,36,2024-11-06,,Active,,22,31500000,5.1,11.2,3.7,Meets Expectations
+EMP-0648,Customer Service,Bandung,Staff,Permanent,Job Portal,S1,31,2025-03-03,,Active,,28,4900000,12.7,16.3,3.5,Meets Expectations
+EMP-0649,Finance,Jakarta,Staff,Permanent,LinkedIn,S1,23,2024-05-14,,Active,,24,7900000,12.1,16.2,2.6,Exceeds Expectations
+EMP-0650,Marketing,Bogor,Staff,Permanent,Agency,D3,30,2024-12-10,,Active,,23,9200000,18.2,10.7,3.1,Meets Expectations
+EMP-0651,Operations,Bandung,Manager,Permanent,LinkedIn,S1,30,2025-01-09,,Active,,20,17000000,13.2,16.1,3.6,Meets Expectations
+EMP-0652,IT & Data,Bogor,Staff,Contract,Job Portal,S1,25,2025-03-30,,Active,,24,11800000,22.8,10.7,4.0,Meets Expectations
+EMP-0653,Customer Service,Jakarta,Supervisor,Contract,Referral,S1,32,2025-03-04,,Active,,24,7200000,25.2,4.9,3.6,Meets Expectations
+EMP-0654,Customer Service,Bandung,Staff,Permanent,Agency,S1,27,2025-01-18,2025-04-03,Exited,Better Opportunity,23,7000000,5.4,15.7,2.9,Meets Expectations
+EMP-0655,Marketing,Bandung,Supervisor,Permanent,LinkedIn,S1,22,2024-03-23,,Active,,26,15000000,6.5,5.7,3.5,Meets Expectations
+EMP-0656,Customer Service,Jakarta,Staff,Contract,Job Portal,S1,25,2025-09-12,2025-12-06,Exited,Better Opportunity,21,7000000,13.6,20.2,3.0,Meets Expectations
+EMP-0657,Sales,Jakarta,Staff,Contract,Campus Hiring,SMA/SMK,27,2025-06-12,2025-08-19,Exited,Contract End,29,5700000,29.8,25.5,4.0,Exceeds Expectations
+EMP-0658,Sales,Jakarta,Senior Staff,Permanent,LinkedIn,S1,26,2024-01-24,2025-12-17,Exited,Contract End,17,9600000,21.4,19.9,2.9,Meets Expectations
+EMP-0659,Finance,Jakarta,Staff,Permanent,Referral,S1,30,2025-10-20,2025-12-09,Exited,Career Growth,12,10700000,12.7,8.4,5,Exceeds Expectations
+EMP-0660,Operations,Bogor,Staff,Permanent,Campus Hiring,S1,23,2024-08-09,,Active,,36,8900000,22.4,16.0,3.9,Meets Expectations
+EMP-0661,Operations,Jakarta,Staff,Contract,Internal Mobility,S1,34,2025-07-21,,Active,,10,9400000,21.3,0,3.4000000000000004,Meets Expectations
+EMP-0662,Marketing,Bogor,Staff,Contract,LinkedIn,SMA/SMK,21,2024-08-16,,Active,,24,8800000,19.3,16.5,2.7,Needs Improvement
+EMP-0663,Operations,Jakarta,Staff,Permanent,Referral,S1,35,2025-08-27,,Active,,20,8600000,14.2,17.0,4.9,Exceeds Expectations
+EMP-0664,Customer Service,Bogor,Staff,Permanent,Referral,S1,20,2024-02-19,,Active,,12,8000000,15.3,22.8,3.9,Exceeds Expectations
+EMP-0665,Sales,Surabaya,Senior Staff,Permanent,Job Portal,S1,34,2025-02-27,,Active,,23,10900000,9.3,14.8,3.8,Meets Expectations
+EMP-0666,Operations,Bandung,Senior Staff,Permanent,Internal Mobility,S1,29,2025-04-05,,Active,,6,9800000,10.8,0,1.9,Meets Expectations
+EMP-0667,Marketing,Jakarta,Staff,Permanent,Job Portal,D3,33,2025-12-04,,Active,,18,10100000,17.9,8.1,3.6,Meets Expectations
+EMP-0668,Operations,Jakarta,Staff,Permanent,Referral,SMA/SMK,33,2024-08-03,,Active,,16,6200000,7.5,17.2,2.8000000000000003,Meets Expectations
+EMP-0669,Sales,Jakarta,Senior Staff,Contract,LinkedIn,S1,33,2024-04-21,,Active,,22,6700000,34.3,4.7,4.0,Meets Expectations
+EMP-0670,Sales,Jakarta,Staff,Permanent,Internal Mobility,S2,26,2025-06-22,,Active,,10,8600000,30.0,7.6,4.2,Needs Improvement
+EMP-0671,Finance,Bogor,Supervisor,Permanent,Agency,S2,21,2025-01-18,,Active,,14,17200000,8.4,11.2,4.1,Exceeds Expectations
+EMP-0672,Operations,Jakarta,Staff,Permanent,Referral,S2,30,2024-02-25,,Active,,14,6000000,9.1,6.5,3.9000000000000004,Exceeds Expectations
+EMP-0673,IT & Data,Bandung,Staff,Contract,Agency,S1,20,2025-08-04,,Active,,16,15200000,13.2,20.5,4.3,Meets Expectations
+EMP-0674,IT & Data,Bandung,Staff,Permanent,LinkedIn,S1,34,2025-02-10,,Active,,21,8300000,22.2,14.4,4.5,Exceeds Expectations
+EMP-0675,Sales,Bandung,Senior Staff,Permanent,Job Portal,S1,30,2025-03-11,,Active,,22,10700000,1,16.3,2.7,Meets Expectations
+EMP-0676,Operations,Jakarta,Staff,Permanent,Job Portal,D3,27,2025-04-22,2025-10-21,Exited,Career Growth,34,7100000,9.7,17.8,3.3,Meets Expectations
+EMP-0677,Customer Service,Bogor,Senior Staff,Permanent,Referral,S1,28,2025-10-03,2025-12-14,Exited,Workload,12,9000000,18.8,11.4,3.4000000000000004,Meets Expectations
+EMP-0678,Marketing,Jakarta,Staff,Permanent,Internal Mobility,D3,30,2024-04-12,,Active,,5,12900000,8.7,10.6,3.8000000000000003,Meets Expectations
+EMP-0679,IT & Data,Jakarta,Supervisor,Permanent,Campus Hiring,S1,27,2025-03-02,,Active,,26,24400000,20.6,7.3,3.3,Meets Expectations
+EMP-0680,Marketing,Bandung,Staff,Contract,Campus Hiring,S1,28,2025-09-09,,Active,,27,9100000,13.3,20.5,3.3000000000000003,Meets Expectations
+EMP-0681,Marketing,Bandung,Staff,Contract,LinkedIn,S2,24,2024-12-29,,Active,,26,9200000,17.3,15.5,3.2,Meets Expectations
+EMP-0682,Customer Service,Jakarta,Manager,Contract,Campus Hiring,S1,25,2025-10-28,,Active,,29,12800000,8.7,8.4,3.6,Meets Expectations
+EMP-0683,Operations,Jakarta,Staff,Permanent,Job Portal,S1,24,2024-09-23,,Active,,20,6500000,19.0,21.1,2.5,Meets Expectations
+EMP-0684,Operations,Bandung,Staff,Contract,Job Portal,S1,26,2024-03-05,,Active,,23,8000000,1.2,2.9,2.5,Exceeds Expectations
+EMP-0685,IT & Data,Jakarta,Staff,Permanent,Referral,S2,29,2025-07-05,,Active,,17,16000000,23.9,8.4,4.4,Exceeds Expectations
+EMP-0686,Operations,Jakarta,Staff,Contract,Campus Hiring,S1,31,2025-11-19,,Active,,29,5900000,4.6,10.6,3.2,Needs Improvement
+EMP-0687,Operations,Jakarta,Staff,Permanent,Internal Mobility,S1,20,2024-02-03,,Active,,11,5400000,17.9,11.8,4.7,Meets Expectations
+EMP-0688,Marketing,Jakarta,Supervisor,Permanent,Job Portal,S2,26,2024-10-15,,Active,,24,9700000,12.7,8.1,2.8,Meets Expectations
+EMP-0689,IT & Data,Bogor,Staff,Permanent,Internal Mobility,S1,26,2024-03-04,,Active,,12,14600000,14.1,5.8,3.4000000000000004,Needs Improvement
+EMP-0690,Marketing,Surabaya,Staff,Contract,Internal Mobility,S1,30,2025-12-10,,Active,,5,11800000,15.5,10.6,5,Exceeds Expectations
+EMP-0691,Human Resources,Surabaya,Staff,Permanent,LinkedIn,S2,26,2025-05-16,,Active,,27,10100000,14.5,17.2,5,Meets Expectations
+EMP-0692,Customer Service,Surabaya,Staff,Permanent,Job Portal,S1,20,2024-10-16,,Active,,31,5000000,11.0,20.4,3.2,Exceeds Expectations
+EMP-0693,Customer Service,Jakarta,Staff,Permanent,Campus Hiring,D3,34,2024-03-25,,Active,,22,6500000,13.2,17.8,1.4,Exceeds Expectations
+EMP-0694,Customer Service,Surabaya,Manager,Permanent,Internal Mobility,S1,30,2024-02-01,2025-06-28,Exited,Compensation,11,9100000,10.7,12.5,4.1,Meets Expectations
+EMP-0695,Sales,Bandung,Supervisor,Permanent,Job Portal,S2,25,2025-11-30,,Active,,22,9200000,20.1,27.8,3.2,Exceeds Expectations
+EMP-0696,Sales,Jakarta,Staff,Permanent,LinkedIn,D3,31,2024-09-21,,Active,,26,9900000,13.4,24.9,3.0,Meets Expectations
+EMP-0697,Sales,Jakarta,Senior Staff,Permanent,Referral,S1,30,2024-11-10,,Active,,17,9300000,3.9,7.6,3.2,Meets Expectations
+EMP-0698,Human Resources,Jakarta,Staff,Permanent,Internal Mobility,D3,20,2025-08-19,,Active,,15,6700000,33.9,20.6,4.8,Meets Expectations
+EMP-0699,Customer Service,Surabaya,Senior Staff,Permanent,Campus Hiring,S1,35,2024-08-13,,Active,,37,7300000,11.9,10.5,3.2,Meets Expectations
+EMP-0700,Finance,Jakarta,Staff,Contract,Campus Hiring,S1,33,2025-10-13,,Active,,21,12600000,24.9,0,4.5,Meets Expectations
+EMP-0701,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,24,2025-10-06,,Active,,23,8500000,7.7,0,3.2,Meets Expectations
+EMP-0702,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,21,2024-01-19,,Active,,23,8600000,24.1,18.1,3.3000000000000003,Exceeds Expectations
+EMP-0703,Operations,Jakarta,Senior Staff,Permanent,Job Portal,S1,25,2024-09-15,,Active,,29,11100000,27.8,9.4,3.2,Meets Expectations
+EMP-0704,Marketing,Bogor,Staff,Contract,Referral,S1,35,2025-11-29,,Active,,14,8400000,8.0,21.8,3.8000000000000003,Meets Expectations
+EMP-0705,IT & Data,Jakarta,Senior Staff,Permanent,Referral,S1,22,2024-07-22,,Active,,10,11600000,10.9,19.1,3.1,Meets Expectations
+EMP-0706,Customer Service,Surabaya,Staff,Permanent,Internal Mobility,S1,28,2024-07-21,,Active,,6,5100000,1,16.3,4.1,Meets Expectations
+EMP-0707,Sales,Jakarta,Staff,Permanent,Job Portal,S1,26,2024-01-21,,Active,,36,11200000,24.6,17.4,3.7,Exceeds Expectations
+EMP-0708,Human Resources,Bogor,Staff,Contract,Job Portal,D3,36,2025-10-29,,Active,,34,9900000,17.9,20.7,3.4,Meets Expectations
+EMP-0709,Customer Service,Surabaya,Senior Staff,Contract,LinkedIn,S1,30,2025-11-05,2025-12-25,Exited,Personal Reason,28,9200000,10.3,16.6,4.0,Meets Expectations
+EMP-0710,Marketing,Bandung,Supervisor,Permanent,Job Portal,S1,34,2025-01-21,,Active,,16,17300000,16.8,20.6,3.6,Meets Expectations
+EMP-0711,Sales,Bogor,Senior Staff,Permanent,LinkedIn,D3,25,2025-03-22,,Active,,21,7300000,19.2,17.9,2.7,Exceeds Expectations
+EMP-0712,Human Resources,Jakarta,Senior Staff,Permanent,Job Portal,S1,32,2025-07-10,,Active,,24,14100000,11.9,0,3.7,Meets Expectations
+EMP-0713,Operations,Jakarta,Staff,Contract,Job Portal,S1,41,2024-03-27,,Active,,22,7300000,6.8,17.4,4.2,Meets Expectations
+EMP-0714,Operations,Bandung,Staff,Permanent,Job Portal,S1,28,2024-04-29,,Active,,27,5000000,11.6,12.5,3.3,Exceeds Expectations
+EMP-0715,Customer Service,Bogor,Staff,Permanent,LinkedIn,S1,30,2025-09-22,,Active,,28,5100000,7.7,15.5,3.6,Meets Expectations
+EMP-0716,Operations,Bogor,Staff,Permanent,Internal Mobility,S1,25,2024-02-15,,Active,,17,7200000,1,9.7,4.9,Meets Expectations
+EMP-0717,Customer Service,Jakarta,Staff,Permanent,LinkedIn,S1,23,2024-09-04,,Active,,30,8500000,9.5,25.8,3.2,Meets Expectations
+EMP-0718,Operations,Jakarta,Staff,Contract,Job Portal,S1,36,2025-10-21,,Active,,19,7100000,22.6,2.2,3.7,Exceeds Expectations
+EMP-0719,Customer Service,Bogor,Staff,Permanent,Campus Hiring,S1,27,2025-05-28,,Active,,39,8000000,13.0,6.4,2.2,Meets Expectations
+EMP-0720,Marketing,Surabaya,Staff,Permanent,Agency,S1,39,2024-04-10,,Active,,27,7700000,1,2.4,2.8,Exceeds Expectations
+EMP-0721,Operations,Bandung,Staff,Contract,Campus Hiring,SMA/SMK,23,2025-02-18,,Active,,36,8900000,20.8,6.8,3.5,Meets Expectations
+EMP-0722,Sales,Jakarta,Staff,Permanent,LinkedIn,S2,25,2025-10-21,,Active,,26,8300000,13.5,12.7,4.1,Meets Expectations
+EMP-0723,IT & Data,Bandung,Staff,Permanent,Job Portal,D3,34,2024-05-28,,Active,,28,14500000,15.1,20.8,4.3,Meets Expectations
+EMP-0724,Operations,Bandung,Staff,Permanent,Campus Hiring,D3,32,2024-04-08,,Active,,33,9600000,8.2,15.9,2.5,Meets Expectations
+EMP-0725,Marketing,Bandung,Staff,Permanent,LinkedIn,S1,24,2024-06-03,,Active,,18,10200000,10.8,6.4,3.8,Meets Expectations
+EMP-0726,IT & Data,Jakarta,Senior Staff,Permanent,LinkedIn,S1,29,2025-08-02,,Active,,21,15100000,15.8,7.0,3.0,Meets Expectations
+EMP-0727,Operations,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,34,2024-05-07,,Active,,10,6600000,20.4,18.3,2.7,Meets Expectations
+EMP-0728,Marketing,Jakarta,Supervisor,Permanent,Job Portal,D3,27,2025-06-28,2025-08-25,Exited,Better Opportunity,29,14200000,21.9,14.6,4.3,Meets Expectations
+EMP-0729,Marketing,Jakarta,Staff,Permanent,Internal Mobility,S1,33,2024-11-09,2025-03-15,Exited,Better Opportunity,10,12900000,29.2,15.3,2.6,Meets Expectations
+EMP-0730,Sales,Bogor,Senior Staff,Contract,Internal Mobility,S1,37,2024-08-03,,Active,,8,9500000,6.7,5.0,5,Exceeds Expectations
+EMP-0731,Operations,Bandung,Senior Staff,Contract,Campus Hiring,S2,29,2025-02-24,,Active,,27,7100000,6.6,14.3,3.4,Meets Expectations
+EMP-0732,Operations,Jakarta,Staff,Permanent,Internal Mobility,S1,31,2024-03-21,,Active,,6,7800000,10.0,0,3.6,Meets Expectations
+EMP-0733,IT & Data,Jakarta,Staff,Permanent,Job Portal,S1,27,2025-02-09,2025-04-20,Exited,Career Growth,25,12900000,21.1,15.2,3.7,Needs Improvement
+EMP-0734,Customer Service,Jakarta,Staff,Contract,Internal Mobility,S1,24,2024-01-08,2025-01-05,Exited,Compensation,5,6400000,15.6,19.5,3.9,Exceeds Expectations
+EMP-0735,Sales,Jakarta,Manager,Contract,Job Portal,S1,36,2024-05-16,,Active,,29,19000000,21.5,28.4,4.6,Exceeds Expectations
+EMP-0736,Customer Service,Bandung,Supervisor,Permanent,Internal Mobility,S1,29,2024-03-17,,Active,,15,9500000,14.3,6.5,3.9000000000000004,Meets Expectations
+EMP-0737,Sales,Jakarta,Senior Staff,Permanent,Campus Hiring,S1,36,2025-11-03,,Active,,28,11900000,17.8,28.2,4.6,Meets Expectations
+EMP-0738,Operations,Jakarta,Staff,Permanent,Campus Hiring,S1,35,2024-08-11,2025-06-21,Exited,Career Growth,24,8500000,5.9,3.5,3.7,Meets Expectations
+EMP-0739,IT & Data,Bandung,Staff,Permanent,Campus Hiring,D3,39,2024-10-03,,Active,,32,15800000,7.2,16.5,4.9,Meets Expectations
+EMP-0740,Finance,Jakarta,Staff,Permanent,Referral,S1,23,2024-06-19,,Active,,15,9500000,26.9,5.8,4.0,Meets Expectations
+EMP-0741,Customer Service,Bogor,Supervisor,Contract,Internal Mobility,S1,20,2025-10-15,,Active,,13,10400000,1,25.9,2.6,Exceeds Expectations
+EMP-0742,IT & Data,Bogor,Senior Staff,Permanent,LinkedIn,S1,32,2025-04-18,,Active,,26,21300000,20.8,0,2.9,Exceeds Expectations
+EMP-0743,Operations,Bandung,Staff,Permanent,Campus Hiring,S1,32,2025-04-24,,Active,,32,6200000,1,9.4,3.5,Exceeds Expectations
+EMP-0744,Marketing,Jakarta,Staff,Permanent,Job Portal,D3,32,2025-12-14,,Active,,23,11200000,21.3,6.9,4.4,Meets Expectations
+EMP-0745,Human Resources,Surabaya,Staff,Permanent,LinkedIn,S1,29,2025-10-11,,Active,,28,11100000,12.7,15.9,4.1,Exceeds Expectations
+EMP-0746,Customer Service,Jakarta,Staff,Permanent,Internal Mobility,S1,28,2024-02-20,,Active,,9,8500000,20.1,5.5,3.6,Meets Expectations
+EMP-0747,Operations,Jakarta,Manager,Permanent,Referral,S2,20,2025-09-20,,Active,,13,12100000,11.9,12.7,4.0,Exceeds Expectations
+EMP-0748,Marketing,Jakarta,Staff,Permanent,Internal Mobility,S1,25,2025-09-19,2025-11-30,Exited,Better Opportunity,13,9500000,14.5,6.6,3.0,Exceeds Expectations
+EMP-0749,Sales,Surabaya,Staff,Contract,Campus Hiring,S1,38,2024-09-22,2025-10-11,Exited,Better Opportunity,28,7200000,31.6,24.5,2.5,Meets Expectations
+EMP-0750,Sales,Jakarta,Staff,Permanent,LinkedIn,D3,37,2024-07-23,,Active,,21,10900000,30.1,17.1,4.1,Exceeds Expectations
+EMP-0751,Sales,Jakarta,Manager,Permanent,Campus Hiring,S1,29,2025-10-02,,Active,,31,14400000,5.3,21.0,3.1,Meets Expectations
+EMP-0752,Sales,Jakarta,Staff,Permanent,Job Portal,S1,29,2025-07-01,,Active,,28,6700000,16.3,13.2,4.6,Meets Expectations
+EMP-0753,Sales,Jakarta,Staff,Contract,LinkedIn,S1,27,2024-12-10,,Active,,22,8000000,8.8,13.9,3.1,Exceeds Expectations
+EMP-0754,Customer Service,Bogor,Senior Staff,Permanent,Job Portal,S1,28,2025-10-13,2025-12-21,Exited,Compensation,31,8100000,20.6,4.9,4.0,Meets Expectations
+EMP-0755,Sales,Bogor,Senior Staff,Permanent,LinkedIn,S1,25,2025-12-13,,Active,,24,13200000,16.0,6.9,4.5,Meets Expectations
+EMP-0756,Sales,Jakarta,Senior Staff,Permanent,Internal Mobility,S1,35,2025-02-12,,Active,,16,11800000,10.7,17.3,5,Meets Expectations
+EMP-0757,Finance,Surabaya,Senior Staff,Permanent,Internal Mobility,S1,36,2025-05-16,2025-10-13,Exited,Better Opportunity,12,13200000,3.7,0,2.9000000000000004,Meets Expectations
+EMP-0758,Sales,Bogor,Staff,Permanent,LinkedIn,S1,29,2025-10-22,,Active,,20,5600000,13.6,10.9,5,Needs Improvement
+EMP-0759,Sales,Bogor,Staff,Permanent,LinkedIn,S1,30,2024-05-21,,Active,,30,10100000,7.8,5.2,4.7,Meets Expectations
+EMP-0760,Operations,Jakarta,Manager,Contract,Referral,S1,30,2025-02-26,2025-10-24,Exited,Better Opportunity,17,15600000,14.1,13.4,3.0,Exceeds Expectations
+EMP-0761,Operations,Jakarta,Senior Staff,Permanent,LinkedIn,S1,38,2024-12-07,,Active,,20,7200000,30.1,13.6,3.2,Meets Expectations
+EMP-0762,Finance,Bogor,Senior Staff,Permanent,Internal Mobility,SMA/SMK,32,2025-03-26,,Active,,10,9100000,1,16.8,3.0,Meets Expectations
+EMP-0763,IT & Data,Jakarta,Staff,Permanent,Internal Mobility,SMA/SMK,37,2025-06-16,,Active,,15,14300000,21.8,7.2,3.4000000000000004,Meets Expectations
+EMP-0764,Finance,Bandung,Senior Staff,Permanent,Job Portal,S1,32,2025-08-11,,Active,,37,10500000,10.0,8.4,2.0,Exceeds Expectations
+EMP-0765,Finance,Jakarta,Staff,Permanent,Campus Hiring,S1,32,2025-10-04,2025-12-08,Exited,Better Opportunity,41,11600000,12.0,19.2,2.7,Meets Expectations
+EMP-0766,Operations,Bandung,Senior Staff,Permanent,Job Portal,S1,31,2024-10-28,,Active,,25,11100000,14.6,11.9,3.2,Meets Expectations
+EMP-0767,Human Resources,Surabaya,Staff,Permanent,Job Portal,S1,24,2024-05-28,,Active,,21,10200000,15.2,10.9,3.8,Meets Expectations
+EMP-0768,IT & Data,Jakarta,Staff,Permanent,Campus Hiring,S1,23,2025-11-06,,Active,,24,15900000,18.9,9.2,4.0,Meets Expectations
+EMP-0769,Operations,Jakarta,Manager,Contract,Campus Hiring,S1,32,2025-10-02,,Active,,38,16800000,9.9,7.1,2.8,Meets Expectations
+EMP-0770,Operations,Bogor,Staff,Permanent,Referral,S1,26,2025-11-11,,Active,,16,5300000,7.4,13.5,4.2,Meets Expectations
+EMP-0771,Sales,Surabaya,Senior Staff,Permanent,Internal Mobility,S1,28,2025-08-11,,Active,,13,7700000,18.9,25.5,3.2,Meets Expectations
+EMP-0772,Sales,Jakarta,Staff,Contract,Job Portal,SMA/SMK,24,2025-01-18,,Active,,27,9000000,27.5,15.9,3.8,Meets Expectations
+EMP-0773,Customer Service,Jakarta,Staff,Permanent,Job Portal,S1,31,2025-05-02,,Active,,12,8200000,13.0,22.1,2.4,Meets Expectations
+EMP-0774,Customer Service,Bandung,Supervisor,Permanent,Internal Mobility,S1,26,2024-06-14,,Active,,7,9800000,7.2,19.3,2.5000000000000004,Exceeds Expectations
+EMP-0775,Marketing,Bandung,Staff,Contract,Referral,S2,31,2025-03-18,,Active,,10,10800000,15.7,11.1,3.7,Meets Expectations
+EMP-0776,Finance,Bandung,Manager,Permanent,Job Portal,S1,35,2025-09-04,,Active,,37,13400000,9.1,21.0,3.2,Meets Expectations
+EMP-0777,Operations,Jakarta,Staff,Permanent,Job Portal,S1,21,2025-08-08,2025-12-15,Exited,Compensation,27,9200000,9.3,25.6,3.6,Meets Expectations
+EMP-0778,Customer Service,Jakarta,Staff,Permanent,Job Portal,S1,33,2025-11-14,2025-12-29,Exited,Personal Reason,29,6200000,7.7,11.8,3.9,Meets Expectations
+EMP-0779,Customer Service,Bandung,Staff,Permanent,Job Portal,S1,27,2025-09-13,,Active,,23,7300000,1,5.9,4.2,Meets Expectations
+EMP-0780,Human Resources,Bogor,Senior Staff,Permanent,Internal Mobility,S1,38,2024-08-29,,Active,,16,12400000,16.6,13.9,4.6000000000000005,Meets Expectations
+EMP-0781,Human Resources,Surabaya,Senior Staff,Contract,Referral,S1,35,2025-07-08,,Active,,21,10200000,13.5,15.1,4.6000000000000005,Exceeds Expectations
+EMP-0782,Marketing,Jakarta,Staff,Contract,LinkedIn,S1,33,2025-06-29,2025-12-16,Exited,Compensation,24,6100000,25.1,6.0,3.2,Meets Expectations
+EMP-0783,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,23,2024-07-23,,Active,,33,8300000,14.2,0,2.6,Exceeds Expectations
+EMP-0784,IT & Data,Bandung,Senior Staff,Permanent,Campus Hiring,S1,31,2024-02-28,,Active,,27,11400000,1,6.0,2.1,Meets Expectations
+EMP-0785,IT & Data,Surabaya,Senior Staff,Permanent,LinkedIn,S1,28,2025-06-12,,Active,,27,11600000,16.6,4.9,3.5,Meets Expectations
+EMP-0786,Human Resources,Jakarta,Senior Staff,Contract,Referral,S1,21,2024-12-17,,Active,,14,13500000,8.9,27.0,3.4000000000000004,Meets Expectations
+EMP-0787,Operations,Jakarta,Senior Staff,Permanent,LinkedIn,S1,30,2025-10-04,,Active,,18,11900000,20.2,10.8,3.1,Meets Expectations
+EMP-0788,Sales,Jakarta,Staff,Permanent,Referral,S1,33,2024-12-02,,Active,,19,5700000,1,8.2,3.6,Meets Expectations
+EMP-0789,Sales,Bandung,Staff,Permanent,Internal Mobility,S1,28,2025-03-04,,Active,,12,10000000,6.1,33.4,2.0000000000000004,Meets Expectations
+EMP-0790,Human Resources,Jakarta,Senior Staff,Permanent,LinkedIn,D3,25,2024-10-06,,Active,,21,9200000,19.4,1.7,3.2,Meets Expectations
+EMP-0791,Sales,Jakarta,Supervisor,Permanent,Job Portal,S1,34,2024-01-02,,Active,,23,11900000,21.5,12.0,3.5,Meets Expectations
+EMP-0792,Operations,Bandung,Staff,Contract,Internal Mobility,S1,28,2025-10-07,2025-12-30,Exited,Workload,7,9300000,5.2,9.8,3.2,Meets Expectations
+EMP-0793,IT & Data,Bandung,Staff,Permanent,LinkedIn,S2,25,2025-02-20,2025-04-07,Exited,Better Opportunity,26,8200000,23.5,0,3.3,Meets Expectations
+EMP-0794,Sales,Bogor,Staff,Contract,LinkedIn,D3,20,2025-02-25,,Active,,16,7100000,4.0,4.0,4.5,Needs Improvement
+EMP-0795,Operations,Bandung,Manager,Permanent,Internal Mobility,S1,25,2024-09-13,,Active,,7,14100000,7.1,10.9,3.9000000000000004,Meets Expectations
+EMP-0796,Sales,Jakarta,Staff,Permanent,Job Portal,S1,33,2024-09-10,,Active,,21,11200000,14.1,28.4,2.4,Exceeds Expectations
+EMP-0797,Sales,Jakarta,Staff,Permanent,Job Portal,S1,37,2024-10-23,,Active,,28,6200000,6.2,16.9,4.2,Needs Improvement
+EMP-0798,Finance,Jakarta,Staff,Contract,Campus Hiring,D3,24,2025-07-02,,Active,,32,12900000,7.6,4.5,4.9,Meets Expectations
+EMP-0799,Marketing,Jakarta,Staff,Permanent,Campus Hiring,S1,32,2025-01-27,,Active,,37,10500000,10.7,11.3,4.4,Meets Expectations
+EMP-0800,Finance,Surabaya,Staff,Permanent,LinkedIn,S1,29,2024-01-28,,Active,,19,11600000,11.1,7.0,3.5,Exceeds Expectations
+EMP-0801,Operations,Jakarta,Staff,Contract,Job Portal,SMA/SMK,27,2025-04-14,2025-11-25,Exited,Personal Reason,29,7000000,25.3,15.6,3.4,Meets Expectations
+EMP-0802,Sales,Jakarta,Senior Staff,Permanent,Job Portal,D3,32,2024-09-20,,Active,,40,14000000,25.2,14.1,5,Meets Expectations
+EMP-0803,Customer Service,Jakarta,Staff,Permanent,Job Portal,S2,24,2024-01-01,,Active,,22,7200000,22.9,20.7,3.0,Meets Expectations
+EMP-0804,Sales,Jakarta,Staff,Permanent,Internal Mobility,S1,36,2024-04-03,,Active,,5,10600000,17.5,11.4,4.8,Meets Expectations
+EMP-0805,Customer Service,Jakarta,Supervisor,Contract,Job Portal,S1,41,2025-09-25,,Active,,22,11900000,8.8,13.4,4.0,Meets Expectations
+EMP-0806,Operations,Bandung,Staff,Permanent,Job Portal,S1,25,2024-08-28,2025-12-11,Exited,Personal Reason,23,7400000,2.0,16.0,3.7,Meets Expectations
+EMP-0807,Operations,Bandung,Staff,Permanent,Job Portal,SMA/SMK,27,2025-11-10,,Active,,32,7100000,13.5,16.6,2.8,Meets Expectations
+EMP-0808,IT & Data,Jakarta,Manager,Permanent,LinkedIn,S1,31,2025-04-07,,Active,,24,15700000,13.0,24.5,3.2,Meets Expectations
+EMP-0809,Marketing,Bogor,Supervisor,Permanent,Campus Hiring,S1,24,2025-06-23,,Active,,29,13400000,11.8,0,3.8,Exceeds Expectations
+EMP-0810,Operations,Jakarta,Senior Staff,Permanent,Campus Hiring,S1,33,2024-03-28,2025-11-23,Exited,Career Growth,32,11000000,9.1,20.4,3.3000000000000003,Meets Expectations
+EMP-0811,Finance,Jakarta,Staff,Permanent,Internal Mobility,S1,27,2025-08-20,,Active,,9,11900000,17.8,1.2,3.8000000000000003,Meets Expectations
+EMP-0812,Operations,Jakarta,Staff,Permanent,Campus Hiring,S1,28,2025-01-16,,Active,,30,7000000,13.8,24.9,4.1,Meets Expectations
+EMP-0813,Sales,Jakarta,Senior Staff,Permanent,Agency,S1,32,2024-09-14,,Active,,12,10400000,14.9,15.1,3.4,Exceeds Expectations
+EMP-0814,Customer Service,Jakarta,Senior Staff,Permanent,Job Portal,D3,24,2025-12-04,,Active,,27,9700000,12.6,20.1,3.5,Exceeds Expectations
+EMP-0815,Human Resources,Jakarta,Staff,Permanent,Job Portal,S1,41,2025-07-13,2025-10-16,Exited,Better Opportunity,29,6600000,22.8,8.1,2.9,Meets Expectations
+EMP-0816,Operations,Bandung,Supervisor,Permanent,Job Portal,S1,33,2024-04-24,,Active,,30,8400000,1.2,0,3.6,Meets Expectations
+EMP-0817,Customer Service,Jakarta,Staff,Contract,Job Portal,S1,31,2025-07-24,2025-09-29,Exited,Career Growth,28,6100000,15.8,16.8,2.7,Meets Expectations
+EMP-0818,Customer Service,Jakarta,Manager,Contract,Internal Mobility,S2,24,2024-04-23,,Active,,5,13600000,32.2,14.6,3.1,Meets Expectations
+EMP-0819,IT & Data,Jakarta,Staff,Contract,LinkedIn,D3,20,2024-09-23,,Active,,20,17400000,17.3,9.7,2.7,Meets Expectations
+EMP-0820,Finance,Bogor,Staff,Permanent,Campus Hiring,S1,27,2025-03-09,,Active,,33,9100000,12.3,22.0,3.4,Meets Expectations
+EMP-0821,Sales,Jakarta,Staff,Permanent,Referral,S2,33,2025-12-03,,Active,,13,6000000,10.7,18.8,3.1,Meets Expectations
+EMP-0822,Customer Service,Bogor,Staff,Contract,Agency,S1,31,2025-02-28,,Active,,19,5800000,8.1,20.5,3.8000000000000003,Meets Expectations
+EMP-0823,Operations,Jakarta,Senior Staff,Permanent,Internal Mobility,D3,24,2024-12-07,,Active,,13,7800000,17.8,8.1,4.0,Meets Expectations
+EMP-0824,Customer Service,Bogor,Senior Staff,Permanent,Job Portal,S1,29,2025-07-16,,Active,,26,8800000,6.6,7.6,3.2,Meets Expectations
+EMP-0825,Operations,Jakarta,Senior Staff,Permanent,Job Portal,S1,21,2025-12-02,,Active,,28,7500000,17.2,19.8,1.7000000000000002,Meets Expectations
+EMP-0826,Operations,Bandung,Manager,Permanent,Internal Mobility,S1,27,2025-04-10,2025-10-27,Exited,Career Growth,11,17400000,9.5,18.6,4.8,Meets Expectations
+EMP-0827,Sales,Surabaya,Staff,Permanent,Job Portal,S2,24,2025-11-06,,Active,,21,11300000,1,8.2,3.4,Meets Expectations
+EMP-0828,Finance,Jakarta,Manager,Contract,Job Portal,S1,29,2024-06-14,2024-08-24,Exited,Compensation,32,16900000,23.3,10.1,2.8,Meets Expectations
+EMP-0829,Operations,Jakarta,Senior Staff,Permanent,Referral,S1,25,2024-03-08,,Active,,14,11100000,12.3,24.3,3.9,Meets Expectations
+EMP-0830,Sales,Surabaya,Staff,Contract,LinkedIn,S1,28,2025-05-28,,Active,,27,7300000,4.8,15.4,3.9,Meets Expectations
+EMP-0831,IT & Data,Jakarta,Supervisor,Permanent,Job Portal,S1,32,2024-03-24,,Active,,29,14400000,10.8,20.9,3.8000000000000003,Meets Expectations
+EMP-0832,Operations,Jakarta,Staff,Permanent,Referral,SMA/SMK,25,2025-06-03,,Active,,6,5700000,12.0,14.7,4.3,Meets Expectations
+EMP-0833,Operations,Jakarta,Senior Staff,Contract,Internal Mobility,S1,26,2025-08-26,,Active,,7,10100000,12.8,14.5,5,Meets Expectations
+EMP-0834,Operations,Surabaya,Staff,Permanent,Job Portal,S1,33,2024-08-18,,Active,,29,5100000,8.4,6.3,3.6,Meets Expectations
+EMP-0835,Customer Service,Bandung,Staff,Permanent,Job Portal,S2,26,2025-07-14,,Active,,30,6900000,1,17.7,3.1,Meets Expectations
+EMP-0836,Customer Service,Jakarta,Staff,Contract,Campus Hiring,S1,31,2024-04-25,2024-06-17,Exited,Compensation,27,6900000,10.0,23.3,2.9,Meets Expectations
+EMP-0837,IT & Data,Jakarta,Senior Staff,Contract,LinkedIn,S1,38,2025-03-04,,Active,,17,14300000,18.8,11.6,3.8,Meets Expectations
+EMP-0838,Operations,Jakarta,Staff,Contract,Campus Hiring,S1,39,2024-06-25,2025-01-05,Exited,Contract End,33,9400000,12.0,17.0,4.0,Meets Expectations
+EMP-0839,IT & Data,Jakarta,Staff,Permanent,Job Portal,S1,30,2024-02-27,,Active,,27,10300000,8.9,14.6,3.6,Meets Expectations
+EMP-0840,Operations,Bogor,Staff,Permanent,Job Portal,S1,33,2024-07-29,,Active,,21,6200000,14.3,2.3,4.8,Exceeds Expectations
+EMP-0841,Marketing,Bandung,Staff,Permanent,Referral,D3,37,2025-12-03,,Active,,16,10400000,7.9,21.0,3.9,Meets Expectations
+EMP-0842,Customer Service,Bandung,Staff,Permanent,Job Portal,S1,30,2025-11-14,,Active,,29,8100000,22.5,16.1,3.9,Exceeds Expectations
+EMP-0843,Customer Service,Bogor,Staff,Permanent,Referral,SMA/SMK,28,2024-09-04,,Active,,19,5400000,6.1,5.1,4.2,Meets Expectations
+EMP-0844,Human Resources,Jakarta,Supervisor,Permanent,Job Portal,S1,24,2025-05-18,,Active,,27,10400000,6.2,6.6,3.9,Exceeds Expectations
+EMP-0845,Sales,Jakarta,Staff,Contract,Campus Hiring,S2,31,2024-11-05,,Active,,37,8700000,6.9,13.5,4.8,Meets Expectations
+EMP-0846,Operations,Bandung,Supervisor,Contract,Internal Mobility,S1,23,2024-05-12,,Active,,14,14300000,11.9,20.1,3.6,Meets Expectations
+EMP-0847,Customer Service,Bandung,Staff,Permanent,Referral,S1,27,2025-03-05,,Active,,16,7600000,1,16.6,3.1,Meets Expectations
+EMP-0848,IT & Data,Surabaya,Staff,Permanent,Job Portal,D3,28,2024-05-21,,Active,,28,17200000,10.7,15.4,2.8,Meets Expectations
+EMP-0849,Sales,Jakarta,Staff,Permanent,Internal Mobility,D3,31,2025-05-19,2025-08-10,Exited,Workload,6,7800000,24.9,12.1,3.8000000000000003,Needs Improvement
+EMP-0850,Marketing,Jakarta,Staff,Permanent,LinkedIn,S1,26,2025-01-09,,Active,,18,6600000,13.3,5.8,3.4,Meets Expectations
+EMP-0851,Sales,Jakarta,Senior Staff,Permanent,Agency,S1,34,2025-06-19,2025-11-05,Exited,Workload,19,8000000,17.1,20.1,3.3000000000000003,Meets Expectations
+EMP-0852,Marketing,Bogor,Staff,Permanent,Campus Hiring,S2,34,2024-08-14,,Active,,35,10200000,21.2,14.8,3.6,Meets Expectations
+EMP-0853,Operations,Surabaya,Staff,Contract,LinkedIn,S2,34,2024-12-22,,Active,,22,5800000,6.2,11.4,3.8,Meets Expectations
+EMP-0854,Customer Service,Jakarta,Senior Staff,Permanent,Job Portal,S1,37,2025-06-23,,Active,,20,7000000,13.6,15.8,3.1,Meets Expectations
+EMP-0855,Customer Service,Jakarta,Staff,Permanent,Referral,S1,35,2025-11-09,,Active,,17,6100000,8.3,10.0,3.2,Meets Expectations
+EMP-0856,Customer Service,Bogor,Staff,Contract,Job Portal,SMA/SMK,31,2024-01-06,2024-09-13,Exited,Career Growth,21,6800000,8.5,6.5,4.2,Meets Expectations
+EMP-0857,Sales,Bogor,Senior Staff,Contract,Job Portal,S1,30,2025-08-01,2025-12-22,Exited,Personal Reason,21,13200000,11.6,6.8,4.2,Meets Expectations
+EMP-0858,Sales,Bandung,Supervisor,Permanent,Internal Mobility,S1,28,2024-12-05,2025-02-25,Exited,Workload,19,9300000,9.6,18.5,4.7,Exceeds Expectations
+EMP-0859,Sales,Jakarta,Staff,Permanent,Internal Mobility,S1,20,2025-09-04,,Active,,7,6000000,20.7,27.8,3.3000000000000003,Meets Expectations
+EMP-0860,Customer Service,Jakarta,Staff,Permanent,Job Portal,S1,26,2024-05-27,,Active,,29,6400000,14.9,10.1,3.2,Meets Expectations
+EMP-0861,Human Resources,Jakarta,Staff,Contract,LinkedIn,S1,29,2024-01-16,,Active,,33,10900000,17.5,8.7,3.1,Meets Expectations
+EMP-0862,Operations,Jakarta,Staff,Contract,Campus Hiring,S1,29,2024-01-14,,Active,,40,8200000,8.2,15.7,4.7,Meets Expectations
+EMP-0863,Sales,Bogor,Staff,Permanent,Referral,SMA/SMK,29,2024-12-17,,Active,,11,6500000,15.8,18.9,3.7,Meets Expectations
+EMP-0864,Customer Service,Bandung,Senior Staff,Contract,LinkedIn,SMA/SMK,31,2025-04-16,,Active,,17,7800000,15.3,4.2,4.7,Meets Expectations
+EMP-0865,Customer Service,Jakarta,Staff,Contract,Campus Hiring,S1,30,2024-10-10,2025-06-21,Exited,Personal Reason,32,8300000,34.0,26.4,3.6999999999999997,Meets Expectations
+EMP-0866,Sales,Bandung,Staff,Permanent,Job Portal,S1,30,2024-08-26,,Active,,26,10700000,6.2,12.9,4.4,Meets Expectations
+EMP-0867,Human Resources,Jakarta,Supervisor,Permanent,Job Portal,D3,20,2024-08-01,,Active,,18,12600000,26.5,5.5,3.5,Meets Expectations
+EMP-0868,Sales,Jakarta,Staff,Permanent,Job Portal,S1,27,2024-02-04,2024-06-21,Exited,Workload,39,7200000,13.1,14.5,2.2,Meets Expectations
+EMP-0869,Sales,Bogor,Supervisor,Permanent,Job Portal,D3,26,2024-05-19,,Active,,18,16600000,14.3,5.3,4.1,Meets Expectations
+EMP-0870,Sales,Jakarta,Senior Staff,Permanent,Internal Mobility,S2,27,2024-07-30,,Active,,11,10500000,10.8,13.0,4.1,Exceeds Expectations
+EMP-0871,Sales,Bandung,Staff,Permanent,Job Portal,S2,28,2025-09-05,,Active,,23,9800000,17.0,13.7,2.1,Meets Expectations
+EMP-0872,Operations,Bandung,Staff,Contract,Referral,S1,34,2024-04-10,,Active,,15,7800000,2.5,19.1,4.6,Exceeds Expectations
+EMP-0873,Customer Service,Surabaya,Staff,Contract,Referral,S2,23,2024-08-29,,Active,,21,6600000,5.3,4.7,3.3000000000000003,Meets Expectations
+EMP-0874,Operations,Jakarta,Staff,Permanent,Campus Hiring,D3,28,2024-11-07,2025-06-29,Exited,Career Growth,33,7600000,18.8,3.9,3.0,Meets Expectations
+EMP-0875,Operations,Jakarta,Senior Staff,Contract,Referral,D3,27,2025-11-27,,Active,,17,8500000,34.0,2.0,4.1,Meets Expectations
+EMP-0876,Customer Service,Bogor,Staff,Contract,Referral,S1,26,2024-05-26,2024-10-26,Exited,Career Growth,23,6000000,12.2,21.9,2.8000000000000003,Meets Expectations
+EMP-0877,Operations,Surabaya,Senior Staff,Permanent,Campus Hiring,D3,24,2025-03-09,,Active,,31,10200000,7.7,1.5,4.8,Meets Expectations
+EMP-0878,Finance,Surabaya,Staff,Permanent,Job Portal,S2,23,2025-03-16,,Active,,22,8300000,16.8,20.9,3.9,Meets Expectations
+EMP-0879,Sales,Jakarta,Staff,Permanent,Job Portal,SMA/SMK,31,2024-06-13,,Active,,34,6100000,12.3,16.6,3.0,Exceeds Expectations
+EMP-0880,IT & Data,Jakarta,Staff,Contract,LinkedIn,S1,23,2025-04-05,,Active,,27,17700000,21.0,3.3,3.6,Meets Expectations
+EMP-0881,Customer Service,Jakarta,Staff,Permanent,LinkedIn,S1,24,2024-07-06,,Active,,29,7400000,11.0,28.8,2.3000000000000003,Meets Expectations
+EMP-0882,Human Resources,Bandung,Senior Staff,Permanent,LinkedIn,S1,26,2025-07-18,,Active,,23,11500000,6.3,0,3.1,Exceeds Expectations
+EMP-0883,Operations,Bogor,Staff,Permanent,LinkedIn,S2,22,2025-08-01,2025-11-20,Exited,Contract End,27,5000000,11.8,3.0,4.1,Meets Expectations
+EMP-0884,Marketing,Bandung,Staff,Permanent,Agency,S1,23,2024-09-06,,Active,,17,9900000,17.5,15.8,3.1,Exceeds Expectations
+EMP-0885,Sales,Bogor,Senior Staff,Contract,Campus Hiring,S1,23,2024-12-15,2025-11-14,Exited,Better Opportunity,37,10400000,7.2,8.7,3.4,Meets Expectations
+EMP-0886,Operations,Jakarta,Supervisor,Permanent,Campus Hiring,S1,35,2025-01-24,,Active,,28,10900000,2.2,12.4,3.6,Exceeds Expectations
+EMP-0887,Marketing,Bogor,Supervisor,Contract,Agency,S1,28,2025-07-02,,Active,,19,9900000,21.3,10.6,3.4,Meets Expectations
+EMP-0888,Operations,Jakarta,Staff,Permanent,Job Portal,S1,26,2025-01-19,,Active,,32,7300000,16.1,20.8,3.6,Exceeds Expectations
+EMP-0889,Operations,Jakarta,Senior Staff,Contract,Referral,S1,28,2024-05-18,,Active,,16,10000000,1,2.3,3.7,Meets Expectations
+EMP-0890,Human Resources,Jakarta,Staff,Permanent,Job Portal,D3,28,2025-07-10,2025-09-08,Exited,Career Growth,28,6100000,8.6,16.3,2.9,Meets Expectations
+EMP-0891,Marketing,Bogor,Supervisor,Permanent,Internal Mobility,S1,32,2024-03-25,,Active,,14,18100000,6.7,9.0,5,Exceeds Expectations
+EMP-0892,Sales,Bandung,Senior Staff,Permanent,LinkedIn,S1,24,2025-01-28,,Active,,19,11100000,1,12.5,3.6,Meets Expectations
+EMP-0893,Marketing,Bandung,Staff,Permanent,Internal Mobility,SMA/SMK,25,2024-01-10,,Active,,5,10700000,8.4,24.1,3.3000000000000003,Meets Expectations
+EMP-0894,Human Resources,Jakarta,Staff,Permanent,Campus Hiring,S1,32,2025-05-31,,Active,,39,6800000,18.2,4.5,3.6,Meets Expectations
+EMP-0895,Sales,Jakarta,Staff,Permanent,Job Portal,D3,26,2025-08-15,2025-11-14,Exited,Better Opportunity,18,10700000,23.0,3.4,4.0,Meets Expectations
+EMP-0896,Customer Service,Jakarta,Staff,Contract,Job Portal,S1,33,2025-10-23,2025-12-17,Exited,Better Opportunity,29,6700000,24.0,7.6,3.5,Exceeds Expectations
+EMP-0897,Human Resources,Surabaya,Supervisor,Permanent,Agency,S2,20,2024-09-12,,Active,,21,17000000,6.9,13.0,3.4,Meets Expectations
+EMP-0898,IT & Data,Bandung,Manager,Permanent,Referral,SMA/SMK,21,2025-01-23,,Active,,20,23200000,18.5,8.0,4.5,Meets Expectations
+EMP-0899,Human Resources,Jakarta,Senior Staff,Permanent,Job Portal,D3,26,2025-08-11,,Active,,35,14500000,13.4,13.7,3.4,Meets Expectations
+EMP-0900,Sales,Bandung,Staff,Permanent,Referral,D3,25,2025-03-08,,Active,,6,5700000,7.7,5.8,2.8000000000000003,Exceeds Expectations
